@@ -5,8 +5,8 @@ export default class Homepage extends Component{
     render(){
         return(
             <div>
-                <h1>GALID</h1>
-                <p className="lead">Lorem ipsum dolor sit amet</p>
+                <h1>HOODS</h1>
+                <p className="lead">HOusing Open Data Survey (or just a bad Google Maps implementation)</p>
                 <hr />
                 <SearchAddress />
             </div>

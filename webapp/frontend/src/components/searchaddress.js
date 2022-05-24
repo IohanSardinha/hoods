@@ -1,73 +1,107 @@
-import React, { Component } from "react";
+import React, { useState } from "react";
 import axios from 'axios';
 import { withRouter } from "react-router";
+import { Autocomplete, GoogleMap, LoadScript } from "@react-google-maps/api";
+import { useForm } from "react-hook-form";
 
-const Alert = () => (
-    <div className="alert alert-success" role="alert">
-        Response received!
-    </div>
-)
 
-class SearchAddress extends Component {
-    constructor(props){
-        super(props);
+const libs = ['places']
+const search_keys = ['geometry.location', 'formatted_address']
+const MAPS_API_KEY = "<Your API Key here>"
 
-        this.onChangeAddress = this.onChangeAddress.bind(this);
-        this.onSubmit = this.onSubmit.bind(this);
+const bounds = {
+    south: 41.3451778,
+    north: 41.469615,
+    east: 2.2285723,
+    west: 2.0768881
+}
 
-        this.state = {
-            address: "",
-            alertVisible: false,
-        };
+
+function SearchAddress() {
+
+
+    const { register, handleSubmit, trigger, formState: { errors } } = useForm({ reValidateMode: 'onChange' });
+
+
+    const [address, setAddress] = useState("")
+
+    const [autocomplete, setAutoComplete] = useState(null)
+
+    const [current_center, setCenter] = useState({ lat: 41.3874, lng: 2.1686 })
+
+
+    const onLoadComplete = (ac) => {
+        setAutoComplete(ac)
     }
 
-    onChangeAddress(e){
-        this.setState({
-            address: e.target.value,
-        });
+
+
+    const onChangeAddress = (e) => {
+        setAddress(e.target.value);
     }
 
-    onSubmit(e){
-        e.preventDefault();
+    const autoCompleteDone = async () => {
+        setAddress(autocomplete.getPlace().formatted_address)
+    }
 
+
+    const validateInBarcelona = async (value) => {
+        if (autocomplete === null || autocomplete.getPlace().geometry === undefined) return false
+
+        const lat = autocomplete.getPlace().geometry.location.lat()
+        const long = autocomplete.getPlace().geometry.location.lng()
+        return (long <= bounds['east'] && long >= bounds['west'] && lat >= bounds['south'] && lat <= bounds['north'])
+
+    }
+
+    const onSubmit = async (e) => {
+        //setAddress(autocomplete.getPlace().formatted_address)
+        setCenter({ lat: autocomplete.getPlace().geometry.location.lat(), lng: autocomplete.getPlace().geometry.location.lng() })
         axios
             .get('http://localhost:8000/test/')
             .then((res) => {
-                if(res.data){
-                    this.setState({
-                        alertVisibile: true,
-                    });
-                    setTimeout(() => {
-                        this.setState({
-                            alertVisibile: false,
-                        })
-                    }, 3000);
+                if (res.data) {
+
                 }
             });
     }
-
-    render(){
-        return (
-            <div>
-                <h1 className="display-6">Search an address</h1>
-                <form className="row" onSubmit={this.onSubmit}>
-                    <div className="col-10">
-                        <input 
-                            type="text" 
-                            className="form-control form-control-lg" 
-                            placeholder="Address" 
-                            value={this.state.address}
-                            onChange={this.onChangeAddress}
-                        />                    
-                    </div>
-                    <div className="col-2">
-                        <button type="submit" className="btn btn-lg btn-outline-success mb-3">Search</button>
-                    </div>
-                </form>
-                {this.state.alertVisibile ? <Alert /> : null}
-            </div>
-        );
-    }
+    return (
+        <>
+            <LoadScript libraries={libs} googleMapsApiKey={MAPS_API_KEY}>
+                <div>
+                    <h1 className="display-6">Search an address</h1>
+                    <form className="row" onSubmit={handleSubmit(onSubmit)}>
+                        <div className="col-10 form-group" >
+                            <Autocomplete fields={search_keys} onLoad={onLoadComplete} onPlaceChanged={autoCompleteDone}>
+                                <input
+                                    {...register('addressField', { validate: validateInBarcelona, required: true })}
+                                    type="text"
+                                    className={`form-control ${errors.addressField ? 'is-invalid' : ''}`}
+                                    placeholder="Address"
+                                    value={address}
+                                    onChange={onChangeAddress}
+                                >
+                                </input>
+                            </Autocomplete>
+                            <div className="text-danger"><small>{errors.addressField && "Address must be in Barcelona"}</small></div>
+                        </div>
+                        <div className="col-2">
+                            <button onSubmit={onSubmit} type="submit" className="btn btn-lg btn-outline-success mb-3">Search</button>
+                        </div>
+                    </form>
+                </div>
+                <GoogleMap
+                    id="circle-example"
+                    mapContainerStyle={{
+                        height: "400px",
+                        width: "800px"
+                    }}
+                    zoom={15}
+                    center={current_center}
+                />
+            </LoadScript>
+        </>
+    );
 }
 
 export default withRouter(SearchAddress);
