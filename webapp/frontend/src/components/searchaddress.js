@@ -1,13 +1,13 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import axios from 'axios';
 import { withRouter } from "react-router";
 import { Autocomplete, GoogleMap, LoadScript } from "@react-google-maps/api";
-import { useForm } from "react-hook-form";
+import { useForm, useFormState } from "react-hook-form";
 
 
 const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
-const MAPS_API_KEY = "<Your API Key here>"
+const MAPS_API_KEY = "API KEY HERE"
 
 const bounds = {
     south: 41.3451778,
@@ -19,7 +19,6 @@ const bounds = {
 
 function SearchAddress() {
 
-
     const { register, handleSubmit, trigger, formState: { errors } } = useForm({ reValidateMode: 'onChange' });
 
 
@@ -28,6 +27,12 @@ function SearchAddress() {
     const [autocomplete, setAutoComplete] = useState(null)
 
     const [current_center, setCenter] = useState({ lat: 41.3874, lng: 2.1686 })
+
+    //useEffect(() => {
+    //    const triggerValid = async () => await trigger()
+    //    triggerValid()
+    //    
+    //})
 
 
     const onLoadComplete = (ac) => {
@@ -40,12 +45,13 @@ function SearchAddress() {
         setAddress(e.target.value);
     }
 
-    const autoCompleteDone = async () => {
+    const autoCompleteDone = () => {
         setAddress(autocomplete.getPlace().formatted_address)
     }
 
 
     const validateInBarcelona = async (value) => {
+
         if (autocomplete === null || autocomplete.getPlace().geometry === undefined) return false
 
         const lat = autocomplete.getPlace().geometry.location.lat()
@@ -69,16 +75,15 @@ function SearchAddress() {
         <>
             <LoadScript libraries={libs} googleMapsApiKey={MAPS_API_KEY}>
                 <div>
-                    <h1 className="display-6">Search an address</h1>
-                    <form className="row" onSubmit={handleSubmit(onSubmit)}>
+                    <form className="row" input='submit' onSubmit={handleSubmit(onSubmit)}>
                         <div className="col-10 form-group" >
                             <Autocomplete fields={search_keys} onLoad={onLoadComplete} onPlaceChanged={autoCompleteDone}>
                                 <input
                                     {...register('addressField', { validate: validateInBarcelona, required: true })}
-                                    type="text"
                                     className={`form-control ${errors.addressField ? 'is-invalid' : ''}`}
-                                    placeholder="Address"
                                     value={address}
+                                    placeholder="Search an Address in Barcelona"
+                                    type='text'
                                     onChange={onChangeAddress}
                                 >
                                 </input>
@@ -86,7 +91,27 @@ function SearchAddress() {
                             <div className="text-danger"><small>{errors.addressField && "Address must be in Barcelona"}</small></div>
                         </div>
                         <div className="col-2">
-                            <button onSubmit={onSubmit} type="submit" className="btn btn-lg btn-outline-success mb-3">Search</button>
+                            <button type='submit' className="btn btn-lg btn-outline-success mb-3">Search</button>
+                        </div>
+                        <div classname='row'>
+                        <p className="lead">Quality of Life Priorites</p>
+                            <div class="form-check form-check-inline">
+                                <input {...register('restCheck')} class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" />
+                                <label class="form-check-label" for="inlineCheckbox1">Restaurants & Cafés</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input {...register('nightCheck')} class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2" />
+                                <label class="form-check-label" for="inlineCheckbox2">Bars & Nightlife</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input {...register('playCheck')} class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" />
+                                <label class="form-check-label" for="inlineCheckbox3">Playgrounds & Parks</label>
+                            </div>
+                            <div class="form-check form-check-inline">
+                                <input {...register('seeCheck')} class="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" />
+                                <label class="form-check-label" for="inlineCheckbox3">Closeness to Sea</label>
+                            </div>
+
                         </div>
                     </form>
                 </div>
