@@ -31,10 +31,11 @@ def get_distances(origin, rent_data):
 
     result = []
     for response in responses:
-        if response['status'] == "OK":
-            result.append(response['duration']['value'])
-        else:
-            result.append(-1)
+        score = 0
+        if response['status'] == "OK" and response['duration']['value'] < 60:
+            score = 5 * (1-response['duration']['value']/60)
+            
+        result.append(score)
     
     return result
 
