@@ -7,7 +7,7 @@ import { useForm, useFormState } from "react-hook-form";
 
 const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
-const MAPS_API_KEY = "API KEY HERE"
+const MAPS_API_KEY = "AIzaSyCXAqw0LQl4neNbNISWJ"
 
 const bounds = {
     south: 41.3451778,
