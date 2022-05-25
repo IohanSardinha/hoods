@@ -1,16 +1,17 @@
 import React, { useState, useEffect } from "react";
 import axios from 'axios';
 import { withRouter } from "react-router";
-import { Autocomplete, GoogleMap, Polygon, LoadScript } from "@react-google-maps/api";
+import { Autocomplete, GoogleMap, Polygon, InfoWindow, LoadScript } from "@react-google-maps/api";
 import { useForm, useFormState } from "react-hook-form";
-import { Dropdown } from 'react-bootstrap';
+import { Dropdown, Modal, Button } from 'react-bootstrap';
 
 import polys from '../json/polys.json'
+import lambda_response from '../json/lambda_response.json'
 
 
 const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
-const MAPS_API_KEY = 'AIzaSyAes3QFRvAKAh29Bpq0ue0BhLoh5Rbo0tc'
+const MAPS_API_KEY = ''
 
 
 const bounds = {
@@ -22,28 +23,77 @@ const bounds = {
 
 const fillColors = ['#ff0000', '#ff9900', '#ffff00', '#80ff00', '#009900']
 
-function PolyBarrio(paths, fillColor){
+const scoreToColor = (score) => {
+    if (score >= 4.5) return '#009900'
+    else if (score >= 3.5) return '#80ff00'
+    else if (score >= 2.5) return '#ffff00'
+    else if (score >= 1) return '#ff9900'
+    else return '#ff0000'
+}
+
+function BarrioWindow(props) {
+    return (
+      <Modal
+        {...props}
+        size="lg"
+        aria-labelledby="contained-modal-title-vcenter"
+        centered
+      >
+        <Modal.Header closeButton>
+          <Modal.Title id="contained-modal-title-vcenter">
+            Barrio Info
+          </Modal.Title>
+        </Modal.Header>
+        <Modal.Body>
+          <p>
+            This barrio is nice!
+          </p>
+        </Modal.Body>
+      </Modal>
+    );
+}
+
+function PolyBarrio(key, paths, polyBounds, fillColor){
+    const [modalShow, setModalShow] = useState(false);
+
     const options = {
-        fillColor: fillColors[fillColor],
+        fillColor: fillColor,
         strokeOpacity: 1,
         strokeWeight: 1,
-        clickable: false,
+        clickable: true,
         draggable: false,
         editable: false,
         geodesic: false,
         zIndex: 1
     }
 
-    const onLoad = polygon => {
-        console.log("polygon: ", polygon);
+    const computeCenter = () => {
+        return {
+            lat: (polyBounds.top + polyBounds.bottom) / 2,
+            lng: (polyBounds.left + polyBounds.right) / 2,
+        }
+    }
+
+    const clickHandler = () => {
+        setModalShow(true)
+        console.log(computeCenter())
     }
 
     return(
+        <>
         <Polygon
-            onLoad={onLoad}
+            key={key}
             paths={paths}
             options={options}
+            onClick={clickHandler}
+        >
+        </Polygon>
+        <BarrioWindow 
+
+            show={modalShow}
+            onHide={() => setModalShow(false)}
         />
+        </>
     )
 }
 
@@ -62,6 +112,8 @@ function SearchAddress() {
     //    triggerValid()
     //    
     //})
+
+    let i = 0;
 
     const onLoadComplete = (ac) => {
         setAutoComplete(ac)
@@ -157,9 +209,13 @@ function SearchAddress() {
                     }}
                     zoom={15}
                     center={current_center}
+                    clickableIcons={false}
+                    heading={false}
+                    keyboardShortcuts={false}
                 >
                     {polys.map((poly) => {
-                        return PolyBarrio(poly.points, Math.floor(Math.random() * 5))
+                        i = i + 1;
+                        return PolyBarrio(i, poly.points, poly.bounds, scoreToColor(lambda_response.body[i-1].score))
                     })}
                 </GoogleMap>
             </LoadScript>
