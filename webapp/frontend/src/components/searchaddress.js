@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
 import axios from 'axios';
 import { withRouter } from "react-router";
-import { Autocomplete, GoogleMap, Polygon, InfoWindow, LoadScript } from "@react-google-maps/api";
+import { Autocomplete, GoogleMap, Polygon, LoadScript } from "@react-google-maps/api";
 import { useForm, useFormState } from "react-hook-form";
-import { Dropdown, Modal, Button } from 'react-bootstrap';
+import { Dropdown, Modal } from 'react-bootstrap';
 
 import polys from '../json/polys.json'
 import lambda_response from '../json/lambda_response.json'
@@ -11,7 +11,7 @@ import lambda_response from '../json/lambda_response.json'
 
 const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
-const MAPS_API_KEY = 'AIzaSyBWSLndNceMbrsByMQcS5u3aQ6DgKcBzZ0'
+const MAPS_API_KEY = ''
 
 
 const bounds = {
@@ -76,23 +76,22 @@ function PolyBarrio(key, paths, polyBounds, fillColor){
 
     const clickHandler = () => {
         setModalShow(true)
-        console.log(computeCenter())
+        //console.log(computeCenter())
     }
 
     return(
         <>
-        <Polygon
-            key={key}
-            paths={paths}
-            options={options}
-            onClick={clickHandler}
-        >
-        </Polygon>
-        <BarrioWindow 
-            barrioId={key}
-            show={modalShow}
-            onHide={() => setModalShow(false)}
-        />
+            <Polygon
+                key={key}
+                paths={paths}
+                options={options}
+                onClick={clickHandler}
+            />
+            <BarrioWindow 
+                barrioId={key}
+                show={modalShow}
+                onHide={() => setModalShow(false)}
+            />
         </>
     )
 }
