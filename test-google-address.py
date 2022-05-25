@@ -49,7 +49,7 @@ def main():
 
 
 
-API_KEY = "__"
+API_KEY = "AIzaSyBqmA-bUOGcjvdsa38whNoiIb0oUBr5IpE"
 
 origins_list = ["Microsoft Iberica barcelona"]
 origins = urllib.parse.quote("|".join(origins_list))
