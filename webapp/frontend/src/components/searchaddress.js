@@ -12,6 +12,7 @@ const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
 const MAPS_API_KEY = 'AIzaSyAes3QFRvAKAh29Bpq0ue0BhLoh5Rbo0tc'
 
+
 const bounds = {
     south: 41.3451778,
     north: 41.469615,

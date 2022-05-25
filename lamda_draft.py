@@ -2,21 +2,39 @@ import json
 import requests
 import urllib.parse
 
-def get_prices(rent_data):        
-    return [rent_data[str(i)]['Preu'] if not rent_data[str(i)]['Preu'] == None else 0 for i in range(73)]
+n_barris = 73
 
-def get_distances(origin, rent_data):
-    API_KEY = "YOUR_API_KEY"
+def get_prices(rent_data):
+
+    valid_prices = [rent_data[str(i)]['Preu'] for i in range(n_barris) if not rent_data[str(i)]['Preu'] == None]
+
+    min_price = min(valid_prices)
+    max_price = max(valid_prices)
+
+    results = []
+
+    for i in range(n_barris):
+        score = 0.5
+        price = rent_data[str(i)]['Preu']
+        if price != None:
+            score = 5*( 1 - (price - min_price)/(max_price - min_price)) 
+
+        results.append(score)
+
+    return results
+
+def get_distances(origin, rent_data, max_commute_time=60):
+    API_KEY = "AIzaSyBqmA-bUOGcjvdsa38whNoiIb0oUBr5IpE"
 
     origins_list = [origin]
     origins = urllib.parse.quote("|".join(origins_list))
 
             
-    destinations_list = [rent_data[str(i)]['Nom_Barri'] for i in range(73)]
+    destinations_list = [rent_data[str(i)]['Nom_Barri'] for i in range(n_barris)]
 
     responses = []
 
-    for i in range(0, 73, 25):
+    for i in range(0, n_barris, 25):
         
         destinations = urllib.parse.quote("|".join( destinations_list[i:(i+25)] ))
 
@@ -32,24 +50,24 @@ def get_distances(origin, rent_data):
     result = []
     for response in responses:
         score = 0
-        if response['status'] == "OK" and response['duration']['value'] < 60:
-            score = 5 * (1-response['duration']['value']/60)
+        if response['status'] == "OK" and response['duration']['value'] < max_commute_time:
+            score = 5 * (1-response['duration']['value']/max_commute_time)
             
         result.append(score)
     
     return result
 
 def get_locations():
-    return [0.5 for i in range(73)]
+    return [2.5 for i in range(n_barris)]
 
 
 def compute_score(price, distance, locations):
 
     price_factor = 1.0
     distance_factor = 1.0
-    locations_factor = 1.0
+    locations_factor = 0.0
 
-    divisor = 3.0
+    divisor = 2.0
 
     return (price * price_factor + distance * distance_factor + locations * locations_factor)/divisor
 
@@ -71,7 +89,7 @@ def lambda_handler(event, context):
 
 
     #Computing the score
-    scores = [compute_score(prices[i], distances[i], locations[i]) for i in range(73)]
+    scores = [compute_score(prices[i], distances[i], locations[i]) for i in range(n_barris)]
 
     return {
         "statusCode": 200,
@@ -79,4 +97,4 @@ def lambda_handler(event, context):
     }
 
 
-print(json.dumps(lambda_handler(None, None), indent=4))
+print(json.dumps(lambda_handler({'origin':'Microsoft Iberica barcelona'}, None), indent=4))
