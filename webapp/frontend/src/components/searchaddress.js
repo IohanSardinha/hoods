@@ -11,7 +11,7 @@ import lambda_response from '../json/lambda_response.json'
 
 const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
-const MAPS_API_KEY = ''
+const MAPS_API_KEY = 'AIzaSyBWSLndNceMbrsByMQcS5u3aQ6DgKcBzZ0'
 
 
 const bounds = {
@@ -41,7 +41,7 @@ function BarrioWindow(props) {
       >
         <Modal.Header closeButton>
           <Modal.Title id="contained-modal-title-vcenter">
-            Barrio Info
+            Barrio {props.barrioId} Info
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
@@ -89,7 +89,7 @@ function PolyBarrio(key, paths, polyBounds, fillColor){
         >
         </Polygon>
         <BarrioWindow 
-
+            barrioId={key}
             show={modalShow}
             onHide={() => setModalShow(false)}
         />
@@ -189,8 +189,8 @@ function SearchAddress() {
                                             <label className="form-check-label" htmlFor="inlineCheckbox3">Playgrounds & Parks</label>
                                         </div>
                                         <div className="form-check form-check-inline">
-                                            <input {...register('seeCheck')} className="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" />
-                                            <label className="form-check-label" htmlFor="inlineCheckbox3">Closeness to Sea</label>
+                                            <input {...register('seeCheck')} className="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4" />
+                                            <label className="form-check-label" htmlFor="inlineCheckbox4">Closeness to Sea</label>
                                         </div>
                                     </div>
                                 </Dropdown.Menu>
@@ -207,7 +207,7 @@ function SearchAddress() {
                         height: "400px",
                         width: "100%"
                     }}
-                    zoom={15}
+                    zoom={14}
                     center={current_center}
                     clickableIcons={false}
                     heading={false}
