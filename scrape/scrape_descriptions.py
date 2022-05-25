@@ -1,6 +1,10 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess
 import json
+import unidecode
+import re
+
+cleanString = lambda x: x.replace("[1]","").replace("[2]","").replace("[3]","").replace("\n","")
 
 class MySpider(scrapy.Spider):
 
@@ -17,12 +21,12 @@ class MySpider(scrapy.Spider):
             yield response.follow(barri_url, callback=self.parse_barri, meta={'id':i-2})
 
     def parse_barri(self, response):
-        first_paragraph = " ".join(response.css("#mw-content-text>div>p")[0].css("*::text").extract())
-        second_paragraph = " ".join(response.css("#mw-content-text>div>p")[1].css("*::text").extract())
+        first_paragraph = cleanString(" ".join(response.css("#mw-content-text>div>p")[0].css("*::text").extract()))
+        #second_paragraph = " ".join(response.css("#mw-content-text>div>p")[1].css("*::text").extract())
         
         print(json.dumps({
             "id":response.meta.get('id'),
-            "description":first_paragraph+"\n"+second_paragraph
+            "description":first_paragraph
         }),",")
 
 
