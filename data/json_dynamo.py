@@ -10,7 +10,7 @@ client_dynamo=session.resource('dynamodb')
 table=client_dynamo.Table('hoods_rent_prices')
 records=""
 
-with open('final.json','r') as f:
+with open('fixed_zeros.json','r') as f:
   records = json.loads(f.read(), parse_float=Decimal)
 
 for i in records:
