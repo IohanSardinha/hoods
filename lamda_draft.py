@@ -84,17 +84,69 @@ def get_distances(origin, rent_data, min_commute_time = 10, max_commute_time=60)
     
     return results
 
-def get_locations():
-    return [{'score':2.5} for _ in range(n_barris)]
+def get_locations(rent_data, locations_factors):
+    bars_factor = safe_get(locations_factors, 'bars', 1.0) if "bars_avg" in rent_data[i] else 0
+    cafes_factor = safe_get(locations_factors, 'cafes', 1.0) if "cafes_avg" in rent_data[i] else 0
+    discos_factor = safe_get(locations_factors, 'discos', 1.0) if "discos_avg" in rent_data[i] else 0
+    parks_factor = safe_get(locations_factors, 'parks', 1.0) if "parks_avg" in rent_data[i] else 0
+    playgrounds_factor = safe_get(locations_factors, 'playgrounds', 1.0) if "playgrounds_avg" in rent_data[i] else 0
+    restaurants_factor = safe_get(locations_factors, 'restaurants', 1.0) if "restaurants_avg" in rent_data[i] else 0
+    divisor = bars_factor+cafes_factor+discos_factor+parks_factor+playgrounds_factor+restaurants_factor
+
+    bars_avg = float(rent_data[i]["bars_avg"]) if "bars_avg" in rent_data[i] else 0
+    cafes_avg = float(rent_data[i]["cafes_avg"]) if "cafes_avg" in rent_data[i] else 0
+    discos_avg = float(rent_data[i]["disco_avg"]) if "discos_avg" in rent_data[i] else 0
+    parks_avg = float(rent_data[i]["parks_avg"]) if "parks_avg" in rent_data[i] else 0
+    playgrounds_avg = float(rent_data[i]["playg_avg"]) if "playgrounds_avg" in rent_data[i] else 0
+    restaurants_avg = float(rent_data[i]["resta_avg"]) if "restaurants_avg" in rent_data[i] else 0
+
+    print(bars_avg)
+    print(cafes_avg)
+    print(discos_avg)
+    print(parks_avg)
+    print(playgrounds_avg)
+    print(restaurants_avg)
+
+
+    result = []
+
+    for i in range(n_barris):
+        score = (bars_factor * bars_avg + 
+                 cafes_factor * cafes_avg +
+                 discos_factor * discos_avg +
+                 parks_factor * parks_avg +
+                 playgrounds_factor * playgrounds_avg +
+                 restaurants_factor * restaurants_avg)/divisor
+
+        item = {}
+        
+        if "bars_num" in rent_data[i]:
+            item["bars_num"] = rent_data[i]["bars_num"]
+        if "cafes_num" in rent_data[i]:
+            item["cafes_num"] = rent_data[i]["cafes_num"]
+        if "discos_num" in rent_data[i]:
+            item["discos_num"] = rent_data[i]["discos_num"]
+        if "parks_num" in rent_data[i]:
+            item["parks_num"] = rent_data[i]["parks_num"]
+        if "playgrounds_num" in rent_data[i]:
+            item["playgrounds_num"] = rent_data[i]["playgrounds_num"]
+        if "restaurants_num" in rent_data[i]:
+            item["restaurants_num"] = rent_data[i]["restaurants_num"]
+        item["score"] = score
+
+        result.append(item)
+
+    return result
+
 
 
 def compute_score(price, distance, locations):
 
-    price_factor = 0.0
+    price_factor = 1.0
     distance_factor = 1.0
     locations_factor = 0.0
 
-    divisor = 1.0
+    divisor = 2.0
 
     score = (price['score'] * price_factor + distance['score'] * distance_factor + locations['score'] * locations_factor)/divisor 
 
