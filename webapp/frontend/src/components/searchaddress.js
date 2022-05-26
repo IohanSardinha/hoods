@@ -7,6 +7,7 @@ import { Dropdown, Modal } from 'react-bootstrap';
 
 import polys from '../json/polys.json'
 import lambda_response from '../json/lambda_response.json'
+import barrioinfo from "../json/barrioinfo.json"
 
 
 const libs = ['places']
@@ -33,28 +34,47 @@ const scoreToColor = (score) => {
 
 function BarrioWindow(props) {
     return (
-      <Modal
-        {...props}
-        size="lg"
-        aria-labelledby="contained-modal-title-vcenter"
-        centered
-      >
-        <Modal.Header closeButton>
-          <Modal.Title id="contained-modal-title-vcenter">
-            Barrio {props.barrioId} Info
-          </Modal.Title>
-        </Modal.Header>
-        <Modal.Body>
-          <p>
-            This barrio is nice!
-          </p>
-        </Modal.Body>
-      </Modal>
+        <Modal
+            {...props}
+            size="lg"
+            aria-labelledby="contained-modal-title-vcenter"
+            centered
+        >
+            <Modal.Header closeButton>
+                <Modal.Title id="contained-modal-title-vcenter">
+                    {props.barriodata.name}
+                </Modal.Title>
+            </Modal.Header>
+            <Modal.Body>
+                <p>
+                    {props.barriodata.description}
+                </p>
+                <hr />
+                <div className="row">
+                    <div className="col">
+                        <h3>News</h3>
+                        {props.barriodata.news.map((article) => {
+                            return (
+                                <div>
+                                    <p><b>{article.title}</b> - {article.date}</p>
+                                    <hr />
+                                </div>
+                            )
+                        })}
+                    </div>
+                    <div className="col">
+                        <p>Average rent price: <b>{props.barriodata.avgRent}</b></p>
+                    </div>
+                </div>
+            </Modal.Body>
+        </Modal>
     );
 }
 
 function PolyBarrio(key, paths, polyBounds, fillColor){
     const [modalShow, setModalShow] = useState(false);
+
+    const [barrioData, setBarrioData] = useState({news: []});
 
     const options = {
         fillColor: fillColor,
@@ -67,16 +87,24 @@ function PolyBarrio(key, paths, polyBounds, fillColor){
         zIndex: 1
     }
 
-    const computeCenter = () => {
-        return {
-            lat: (polyBounds.top + polyBounds.bottom) / 2,
-            lng: (polyBounds.left + polyBounds.right) / 2,
-        }
-    }
+    // const computeCenter = () => {
+    //     return {
+    //         lat: (polyBounds.top + polyBounds.bottom) / 2,
+    //         lng: (polyBounds.left + polyBounds.right) / 2,
+    //     }
+    // }
 
     const clickHandler = () => {
-        setModalShow(true)
-        //console.log(computeCenter())
+        // axios
+        //     .get('http://localhost:8000/test/')
+        //     .then((res) => {
+        //         if (res.data) {
+        //             setBarrioInfo(res.data)
+        //         }
+        //     });
+        setBarrioData(barrioinfo);
+        console.log(barrioData);
+        setModalShow(true);
     }
 
     return(
@@ -88,7 +116,7 @@ function PolyBarrio(key, paths, polyBounds, fillColor){
                 onClick={clickHandler}
             />
             <BarrioWindow 
-                barrioId={key}
+                barriodata={barrioData}
                 show={modalShow}
                 onHide={() => setModalShow(false)}
             />
