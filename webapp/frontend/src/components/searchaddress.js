@@ -103,7 +103,7 @@ function PolyBarrio(key, paths, polyBounds, fillColor){
         //         }
         //     });
         setBarrioData(barrioinfo);
-        console.log(barrioData);
+        //console.log(barrioData);
         setModalShow(true);
     }
 
@@ -130,6 +130,8 @@ function SearchAddress() {
 
     const [address, setAddress] = useState("")
 
+    const [commuteTime, setCommuteTime] = useState("")
+
     const [autocomplete, setAutoComplete] = useState(null)
 
     const [current_center, setCenter] = useState({ lat: 41.3874, lng: 2.1686 })
@@ -150,6 +152,11 @@ function SearchAddress() {
         setAddress(e.target.value);
     }
 
+    const onChangeCommuteTime = (e) => {
+        setCommuteTime(e.target.value);
+    }
+
+
     const autoCompleteDone = () => {
         setAddress(autocomplete.getPlace().formatted_address)
     }
@@ -167,11 +174,12 @@ function SearchAddress() {
     const onSubmit = async (e) => {
         //setAddress(autocomplete.getPlace().formatted_address)
         setCenter({ lat: autocomplete.getPlace().geometry.location.lat(), lng: autocomplete.getPlace().geometry.location.lng() })
+        console.log(e)
         axios
-            .get('http://localhost:8000/test/')
+            .get('https://8z6g2k40mj.execute-api.eu-west-1.amazonaws.com/default/hoods_scores', {e})
             .then((res) => {
                 if (res.data) {
-
+                    console.log(res.data);
                 }
             });
     }
@@ -181,10 +189,10 @@ function SearchAddress() {
             <LoadScript libraries={libs} googleMapsApiKey={MAPS_API_KEY}>
                 <div>
                     <form className="row mb-3" input='submit' onSubmit={handleSubmit(onSubmit)}>
-                        <div className="col-7 form-group" >
+                        <div className="col-6 form-group" >
                             <Autocomplete fields={search_keys} onLoad={onLoadComplete} onPlaceChanged={autoCompleteDone}>
                                 <input
-                                    {...register('addressField', { validate: validateInBarcelona, required: true })}
+                                    {...register('origin', { validate: validateInBarcelona, required: true })}
                                     className={`form-control ${errors.addressField ? 'is-invalid' : ''}`}
                                     value={address}
                                     placeholder="Search an Address in Barcelona"
@@ -196,6 +204,17 @@ function SearchAddress() {
                             <div className="text-danger"><small>{errors.addressField && "Address must be in Barcelona"}</small></div>
                         </div>
                         <div className="col">
+                            <input
+                                {...register('maxCommute')}
+                                className="form-control"
+                                value={commuteTime}
+                                placeholder="Max commute time (mins)"
+                                type='number'
+                                onChange={onChangeCommuteTime}
+                            >
+                            </input>
+                        </div>
+                        <div className="col">
                             <Dropdown>
                                 <Dropdown.Toggle className="w-100" variant="success" id="dropdown-basic">
                                     Priorities
@@ -204,19 +223,19 @@ function SearchAddress() {
                                 <Dropdown.Menu>
                                     <div className="px-2">
                                         <div className="form-check form-check-inline">
-                                            <input {...register('restCheck')} className="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" />
+                                            <input {...register('restaurants')} className="form-check-input" type="checkbox" id="inlineCheckbox1"/>
                                             <label className="form-check-label" htmlFor="inlineCheckbox1">Restaurants & Cafés</label>
                                         </div>
                                         <div className="form-check form-check-inline">
-                                            <input {...register('nightCheck')} className="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2" />
+                                            <input {...register('bars')} className="form-check-input" type="checkbox" id="inlineCheckbox2"/>
                                             <label className="form-check-label" htmlFor="inlineCheckbox2">Bars & Nightlife</label>
                                         </div>
                                         <div className="form-check form-check-inline">
-                                            <input {...register('playCheck')} className="form-check-input" type="checkbox" id="inlineCheckbox3" value="option3" />
+                                            <input {...register('parks')} className="form-check-input" type="checkbox" id="inlineCheckbox3"/>
                                             <label className="form-check-label" htmlFor="inlineCheckbox3">Playgrounds & Parks</label>
                                         </div>
                                         <div className="form-check form-check-inline">
-                                            <input {...register('seeCheck')} className="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4" />
+                                            <input className="form-check-input" type="checkbox" id="inlineCheckbox4" value="option4" />
                                             <label className="form-check-label" htmlFor="inlineCheckbox4">Closeness to Sea</label>
                                         </div>
                                     </div>
