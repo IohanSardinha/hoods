@@ -13,7 +13,7 @@ import barrioinfo from "../json/barrioinfo.json"
 
 const libs = ['places']
 const search_keys = ['geometry.location', 'formatted_address']
-const MAPS_API_KEY = 'AIzaSyCQ48bEnlP5WcNJnsS4Kh9nSwAggf9n7Jg'
+const MAPS_API_KEY = process.env.REACT_APP_MAPS_API_KEY
 
 const center = { lat: 41.3874, lng: 2.1686 }
 
@@ -145,8 +145,6 @@ function PolyBarrio(key, paths, barrioScore){
 
     const [barrioData, setBarrioData] = useState(barrioinfo);
 
-    // const [showInfo, setShowInfo] = useState(true)
-
     const options = {
         fillColor: scoreToColor(barrioScore.score),
         strokeOpacity: 1,
@@ -158,13 +156,6 @@ function PolyBarrio(key, paths, barrioScore){
         zIndex: 1
     }
 
-    // const computeCenter = () => {
-    //     return {
-    //         lat: (polyBounds.top + polyBounds.bottom) / 2,
-    //         lng: (polyBounds.left + polyBounds.right) / 2,
-    //     }
-    // }
-
     const clickHandler = () => {
         axios
             .get('https://dcfsiax4ti.execute-api.eu-west-1.amazonaws.com/test/Hoods-backend', {params: {id: key}})
@@ -174,7 +165,6 @@ function PolyBarrio(key, paths, barrioScore){
                     setModalShow(true);
                 }
             });
-        //console.log(barrioData);
     }
 
     return(
@@ -235,7 +225,7 @@ function SearchAddress() {
         setAddress(autocomplete.getPlace().formatted_address)
     }
 
-    const validateInBarcelona = async (value) => {
+    const validateInBarcelona = async () => {
 
         if (autocomplete === null || autocomplete.getPlace().geometry === undefined) return false
 
