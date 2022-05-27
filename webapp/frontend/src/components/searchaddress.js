@@ -132,7 +132,14 @@ function PolyBarrio(key, paths, barrioScore){
                 options={options}
                 onClick={clickHandler}
             ></Polygon>
-
+            <BarrioWindow 
+                key={key+100}
+                barrioscore={barrioScore}
+                barrioprices={barrioData.Preu}
+                barriodata={barrioData}
+                show={modalShow}
+                onHide={() => setModalShow(false)}
+            />
         </>
     )
 }
