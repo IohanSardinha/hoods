@@ -40,5 +40,47 @@
     },
     "restaurants_num": 39,
     "description": "Sagrada Família  ( Catalan pronunciation:  [səˈɣɾaðə fəˈmiliə] ) is a neighborhood in the  Eixample  district of  Barcelona ,  Catalonia  ( Spain ). Its name comes from the church of the  Sagrada Família , work of  Antoni Gaudí , which can be found in the center of the neighborhood.",
-    "id": 5
+    "id": 5,
+    "news": [
+        {
+            "title": "Desactivado el aviso preventivo de contaminación por PM10",
+            "date": "24/05/2022 - 11:01 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/desactivado-el-aviso-preventivo-de-contaminacion-por-pm10-5-2-2_1178224"
+        },
+        {
+            "title": "“Barcelona Activa te conecta”",
+            "date": "23/05/2022 - 17:05 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/barcelona-activa-te-conecta_1178005"
+        },
+        {
+            "title": "Un nuevo carril bici para conectar Sant Andreu con Sant Martí y L’Eixample",
+            "date": "22/05/2022 - 10:04 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/un-nuevo-carril-bici-para-conectar-sant-andreu-con-sant-marti-y-el-eixample_1174819"
+        },
+        {
+            "title": "Vuelve la Fiesta de la Bicicleta con la tradicional Bicicletada",
+            "date": "20/05/2022 - 11:20 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/vuelve-la-fiesta-de-la-bicicleta-con-la-tradicional-bicicletada_1177614"
+        },
+        {
+            "title": "Consejo de Barrio del Fort Pienc el 26 de mayo",
+            "date": "19/05/2022 - 09:49 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/consejo-de-barrio-del-fort-pienc-el-26-de-mayo_1176673"
+        },
+        {
+            "title": "Vuelve la Feria Modernista y la Fiesta Mayor de la Dreta del Eixample",
+            "date": "18/05/2022 - 15:07 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/devuelve-la-feria-modernista-y-la-fiesta-mayor-de-la-derecha_1176994"
+        },
+        {
+            "title": "Activado el aviso preventivo de contaminación atmosférica por PM10",
+            "date": "17/05/2022 - 13:26 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/activado-el-aviso-preventivo-de-contaminacion-atmosferica-por-pm10_1175720"
+        },
+        {
+            "title": "Consejo de Barrio de la Sagrada Família el 23 de mayo",
+            "date": "17/05/2022 - 09:59 h",
+            "url": "https://ajuntament.barcelona.cat/eixample/es/noticia/consejo-de-barrio-de-la-sagrada-familia-el-23-de-mayo_1176244"
+        }
+    ]
 }
