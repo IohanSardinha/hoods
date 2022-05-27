@@ -1,6 +1,6 @@
 import json
 
-with open("rent.json","r") as f:
+with open("csvjson.json","r") as f:
     data = json.loads(f.read())
     final = []
     print(data)

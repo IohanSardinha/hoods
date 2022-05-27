@@ -6,7 +6,7 @@ export default class About extends Component{
             <div>
                 <div className="row">
                     <div className="col-2">
-                        <img src={`${process.env.PUBLIC_URL}/hoods.png`}></img>
+                        <img src={`${process.env.PUBLIC_URL}/hoods.png`} alt="HOODS Logo"></img>
                     </div>
                     <div className="col">
                         <h1 className="display-3">HOODS</h1>

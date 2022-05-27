@@ -1,0 +1,5842 @@
+[
+  {
+    "Year": 2014,
+    "Codi_Barri": 1,
+    "Preu": 597,
+    "PreuM2": 597,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 0
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 2,
+    "Preu": 790.74,
+    "PreuM2": 790.74,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gótic",
+    "id": 1
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 3,
+    "Preu": 593.73,
+    "PreuM2": 593.73,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 2
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 4,
+    "Preu": 699.1,
+    "PreuM2": 699.1,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 3
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 5,
+    "Preu": 736.09,
+    "PreuM2": 736.09,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 4
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 6,
+    "Preu": 697.69,
+    "PreuM2": 697.69,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 5
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 7,
+    "Preu": 975.96,
+    "PreuM2": 975.96,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 6
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 8,
+    "Preu": 869.72,
+    "PreuM2": 869.72,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 7
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 9,
+    "Preu": 753.61,
+    "PreuM2": 753.61,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 8
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 10,
+    "Preu": 720.14,
+    "PreuM2": 720.14,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 9
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 11,
+    "Preu": 602.55,
+    "PreuM2": 602.55,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 10
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 12,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 11
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 13,
+    "Preu": 574.45,
+    "PreuM2": 574.45,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 12
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 14,
+    "Preu": 679.58,
+    "PreuM2": 679.58,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 13
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 15,
+    "Preu": 605.58,
+    "PreuM2": 605.58,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 14
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 16,
+    "Preu": 621.68,
+    "PreuM2": 621.68,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 15
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 17,
+    "Preu": 629.58,
+    "PreuM2": 629.58,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 16
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 18,
+    "Preu": 647.14,
+    "PreuM2": 647.14,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 17
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 19,
+    "Preu": 802.23,
+    "PreuM2": 802.23,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 18
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 20,
+    "Preu": 806.43,
+    "PreuM2": 806.43,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 19
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 21,
+    "Preu": 1762.06,
+    "PreuM2": 1762.06,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 20
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 22,
+    "Preu": 1754.44,
+    "PreuM2": 1754.44,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 21
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 23,
+    "Preu": 1081.14,
+    "PreuM2": 1081.14,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 22
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 24,
+    "Preu": 1386.13,
+    "PreuM2": 1386.13,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 23
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 25,
+    "Preu": 963.57,
+    "PreuM2": 963.57,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 24
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 26,
+    "Preu": 1078.84,
+    "PreuM2": 1078.84,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 25
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 27,
+    "Preu": 766.33,
+    "PreuM2": 766.33,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farrï",
+    "id": 26
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 28,
+    "Preu": 691.94,
+    "PreuM2": 691.94,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 27
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 29,
+    "Preu": 583.93,
+    "PreuM2": 583.93,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 28
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 30,
+    "Preu": 702.33,
+    "PreuM2": 702.33,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 29
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 31,
+    "Preu": 691.69,
+    "PreuM2": 691.69,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 30
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 32,
+    "Preu": 711.14,
+    "PreuM2": 711.14,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 31
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 33,
+    "Preu": 638.55,
+    "PreuM2": 638.55,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Baix Guinardï",
+    "id": 32
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 34,
+    "Preu": 568.94,
+    "PreuM2": 568.94,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Can Barï",
+    "id": 33
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 35,
+    "Preu": 590.31,
+    "PreuM2": 590.31,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Guinardï",
+    "id": 34
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 36,
+    "Preu": 784.44,
+    "PreuM2": 784.44,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 35
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 37,
+    "Preu": 506.26,
+    "PreuM2": 506.26,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Carmel",
+    "id": 36
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 38,
+    "Preu": 506.77,
+    "PreuM2": 506.77,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Teixonera",
+    "id": 37
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 39,
+    "Preu": 568.75,
+    "PreuM2": 568.75,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 38
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 40,
+    "Preu": 578.5,
+    "PreuM2": 578.5,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Montbau",
+    "id": 39
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 41,
+    "Preu": 737.73,
+    "PreuM2": 737.73,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 40
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Clota",
+    "id": 41
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 43,
+    "Preu": 585.58,
+    "PreuM2": 585.58,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Horta",
+    "id": 42
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 44,
+    "Preu": 579.11,
+    "PreuM2": 579.11,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 43
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 45,
+    "Preu": 552.56,
+    "PreuM2": 552.56,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 44
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 46,
+    "Preu": 501.06,
+    "PreuM2": 501.06,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turï de la Peira",
+    "id": 45
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 47,
+    "Preu": 295.39,
+    "PreuM2": 295.39,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 46
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 48,
+    "Preu": 620.83,
+    "PreuM2": 620.83,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 47
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 49,
+    "Preu": 566.36,
+    "PreuM2": 566.36,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 48
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 50,
+    "Preu": 461.28,
+    "PreuM2": 461.28,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 49
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 51,
+    "Preu": 503.47,
+    "PreuM2": 503.47,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 50
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 52,
+    "Preu": 521.81,
+    "PreuM2": 521.81,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 51
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 53,
+    "Preu": 449.31,
+    "PreuM2": 449.31,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 52
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 54,
+    "Preu": 320.21,
+    "PreuM2": 320.21,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Barï",
+    "id": 53
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 55,
+    "Preu": 406.17,
+    "PreuM2": 406.17,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 54
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 56,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 55
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 57,
+    "Preu": 461.1,
+    "PreuM2": 461.1,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 56
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 58,
+    "Preu": 231.4,
+    "PreuM2": 231.4,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Barï de Viver",
+    "id": 57
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 59,
+    "Preu": 514.58,
+    "PreuM2": 514.58,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 58
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 60,
+    "Preu": 593.22,
+    "PreuM2": 593.22,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 59
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 61,
+    "Preu": 626.26,
+    "PreuM2": 626.26,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 60
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 62,
+    "Preu": 607.77,
+    "PreuM2": 607.77,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 61
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 63,
+    "Preu": 647.84,
+    "PreuM2": 647.84,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 62
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 64,
+    "Preu": 615.61,
+    "PreuM2": 615.61,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 63
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 65,
+    "Preu": 643.75,
+    "PreuM2": 643.75,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 64
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 66,
+    "Preu": 739.94,
+    "PreuM2": 739.94,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 65
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 67,
+    "Preu": 1121.06,
+    "PreuM2": 1121.06,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 66
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 68,
+    "Preu": 663.93,
+    "PreuM2": 663.93,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 67
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 69,
+    "Preu": 1130.29,
+    "PreuM2": 1130.29,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 68
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 70,
+    "Preu": 516.9,
+    "PreuM2": 516.9,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besós i el Maresme",
+    "id": 69
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 71,
+    "Preu": 649.21,
+    "PreuM2": 649.21,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 70
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 72,
+    "Preu": 643.66,
+    "PreuM2": 643.66,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 71
+  },
+  {
+    "Year": 2014,
+    "Codi_Barri": 73,
+    "Preu": 569.84,
+    "PreuM2": 569.84,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 72
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 1,
+    "Preu": 654,
+    "PreuM2": 654,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 73
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 2,
+    "Preu": 831.13,
+    "PreuM2": 831.13,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gótic",
+    "id": 74
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 3,
+    "Preu": 630,
+    "PreuM2": 630,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 75
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 4,
+    "Preu": 751.6,
+    "PreuM2": 751.6,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 76
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 5,
+    "Preu": 792.53,
+    "PreuM2": 792.53,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 77
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 6,
+    "Preu": 739,
+    "PreuM2": 739,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 78
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 7,
+    "Preu": 1052,
+    "PreuM2": 1052,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 79
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 8,
+    "Preu": 941.58,
+    "PreuM2": 941.58,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 80
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 9,
+    "Preu": 807,
+    "PreuM2": 807,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 81
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 10,
+    "Preu": 798,
+    "PreuM2": 798,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 82
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 11,
+    "Preu": 638.47,
+    "PreuM2": 638.47,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 83
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 12,
+    "Preu": 411.36,
+    "PreuM2": 411.36,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 84
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 13,
+    "Preu": 566.01,
+    "PreuM2": 566.01,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 85
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 14,
+    "Preu": 735,
+    "PreuM2": 735,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 86
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 15,
+    "Preu": 640.9,
+    "PreuM2": 640.9,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 87
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 16,
+    "Preu": 661,
+    "PreuM2": 661,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 88
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 17,
+    "Preu": 652,
+    "PreuM2": 652,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 89
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 18,
+    "Preu": 701,
+    "PreuM2": 701,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 90
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 19,
+    "Preu": 909.27,
+    "PreuM2": 909.27,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 91
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 20,
+    "Preu": 814,
+    "PreuM2": 814,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 92
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 21,
+    "Preu": 2034,
+    "PreuM2": 2034,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 93
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 22,
+    "Preu": 1335.71,
+    "PreuM2": 1335.71,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 94
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 23,
+    "Preu": 1227.35,
+    "PreuM2": 1227.35,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 95
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 24,
+    "Preu": 1462,
+    "PreuM2": 1462,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 96
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 25,
+    "Preu": 1076.8,
+    "PreuM2": 1076.8,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 97
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 26,
+    "Preu": 1262,
+    "PreuM2": 1262,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 98
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 27,
+    "Preu": 840,
+    "PreuM2": 840,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farrï",
+    "id": 99
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 28,
+    "Preu": 777.25,
+    "PreuM2": 777.25,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 100
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 29,
+    "Preu": 576.44,
+    "PreuM2": 576.44,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 101
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 30,
+    "Preu": 751.72,
+    "PreuM2": 751.72,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 102
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 31,
+    "Preu": 749.24,
+    "PreuM2": 749.24,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 103
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 32,
+    "Preu": 752,
+    "PreuM2": 752,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 104
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 33,
+    "Preu": 653.16,
+    "PreuM2": 653.16,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Baix Guinardï",
+    "id": 105
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 34,
+    "Preu": 586,
+    "PreuM2": 586,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Can Barï",
+    "id": 106
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 35,
+    "Preu": 630.99,
+    "PreuM2": 630.99,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Guinardï",
+    "id": 107
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 36,
+    "Preu": 775.29,
+    "PreuM2": 775.29,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 108
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 37,
+    "Preu": 528.77,
+    "PreuM2": 528.77,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Carmel",
+    "id": 109
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 38,
+    "Preu": 547.25,
+    "PreuM2": 547.25,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Teixonera",
+    "id": 110
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 39,
+    "Preu": 558.49,
+    "PreuM2": 558.49,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 111
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 40,
+    "Preu": 654.09,
+    "PreuM2": 654.09,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Montbau",
+    "id": 112
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 41,
+    "Preu": 740,
+    "PreuM2": 740,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 113
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 42,
+    "Preu": 368,
+    "PreuM2": 368,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Clota",
+    "id": 114
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 43,
+    "Preu": 594.19,
+    "PreuM2": 594.19,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Horta",
+    "id": 115
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 44,
+    "Preu": 615.06,
+    "PreuM2": 615.06,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 116
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 45,
+    "Preu": 577.52,
+    "PreuM2": 577.52,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 117
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 46,
+    "Preu": 555.18,
+    "PreuM2": 555.18,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turï de la Peira",
+    "id": 118
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 47,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 119
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 48,
+    "Preu": 626.23,
+    "PreuM2": 626.23,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 120
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 49,
+    "Preu": 598.04,
+    "PreuM2": 598.04,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 121
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 50,
+    "Preu": 476,
+    "PreuM2": 476,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 122
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 51,
+    "Preu": 506,
+    "PreuM2": 506,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 123
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 52,
+    "Preu": 544,
+    "PreuM2": 544,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 124
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 53,
+    "Preu": 466,
+    "PreuM2": 466,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 125
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 54,
+    "Preu": 420.63,
+    "PreuM2": 420.63,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Barï",
+    "id": 126
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 55,
+    "Preu": 401.17,
+    "PreuM2": 401.17,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 127
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 56,
+    "Preu": 450,
+    "PreuM2": 450,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 128
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 57,
+    "Preu": 464.95,
+    "PreuM2": 464.95,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 129
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 58,
+    "Preu": 362.94,
+    "PreuM2": 362.94,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Barï de Viver",
+    "id": 130
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 59,
+    "Preu": 577,
+    "PreuM2": 577,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 131
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 60,
+    "Preu": 631,
+    "PreuM2": 631,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 132
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 61,
+    "Preu": 682.44,
+    "PreuM2": 682.44,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 133
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 62,
+    "Preu": 636,
+    "PreuM2": 636,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 134
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 63,
+    "Preu": 688.36,
+    "PreuM2": 688.36,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 135
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 64,
+    "Preu": 669,
+    "PreuM2": 669,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 136
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 65,
+    "Preu": 673,
+    "PreuM2": 673,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 137
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 66,
+    "Preu": 774,
+    "PreuM2": 774,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 138
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 67,
+    "Preu": 1173,
+    "PreuM2": 1173,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 139
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 68,
+    "Preu": 773.52,
+    "PreuM2": 773.52,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 140
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 69,
+    "Preu": 1211.01,
+    "PreuM2": 1211.01,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 141
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 70,
+    "Preu": 516,
+    "PreuM2": 516,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besós i el Maresme",
+    "id": 142
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 71,
+    "Preu": 685.35,
+    "PreuM2": 685.35,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 143
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 72,
+    "Preu": 697.32,
+    "PreuM2": 697.32,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 144
+  },
+  {
+    "Year": 2015,
+    "Codi_Barri": 73,
+    "Preu": 633,
+    "PreuM2": 633,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 145
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 1,
+    "Preu": 716.7,
+    "PreuM2": 716.7,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 146
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 2,
+    "Preu": 913.96,
+    "PreuM2": 913.96,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gótic",
+    "id": 147
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 3,
+    "Preu": 686.63,
+    "PreuM2": 686.63,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 148
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 4,
+    "Preu": 854.18,
+    "PreuM2": 854.18,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 149
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 5,
+    "Preu": 868.35,
+    "PreuM2": 868.35,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 150
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 6,
+    "Preu": 806.4,
+    "PreuM2": 806.4,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 151
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 7,
+    "Preu": 1174.38,
+    "PreuM2": 1174.38,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 152
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 8,
+    "Preu": 1012.22,
+    "PreuM2": 1012.22,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 153
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 9,
+    "Preu": 926.21,
+    "PreuM2": 926.21,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 154
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 10,
+    "Preu": 883.32,
+    "PreuM2": 883.32,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 155
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 11,
+    "Preu": 706.11,
+    "PreuM2": 706.11,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 156
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 12,
+    "Preu": 360.88,
+    "PreuM2": 360.88,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 157
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 13,
+    "Preu": 613.16,
+    "PreuM2": 613.16,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 158
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 14,
+    "Preu": 786.35,
+    "PreuM2": 786.35,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 159
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 15,
+    "Preu": 703.28,
+    "PreuM2": 703.28,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 160
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 16,
+    "Preu": 730.45,
+    "PreuM2": 730.45,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 161
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 17,
+    "Preu": 711.1,
+    "PreuM2": 711.1,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 162
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 18,
+    "Preu": 740.5,
+    "PreuM2": 740.5,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 163
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 19,
+    "Preu": 983.48,
+    "PreuM2": 983.48,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 164
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 20,
+    "Preu": 892.28,
+    "PreuM2": 892.28,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 165
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 21,
+    "Preu": 1692.2,
+    "PreuM2": 1692.2,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 166
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 22,
+    "Preu": 1354.62,
+    "PreuM2": 1354.62,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 167
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 23,
+    "Preu": 1197.62,
+    "PreuM2": 1197.62,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 168
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 24,
+    "Preu": 1619.04,
+    "PreuM2": 1619.04,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 169
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 25,
+    "Preu": 1197.72,
+    "PreuM2": 1197.72,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 170
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 26,
+    "Preu": 1298.95,
+    "PreuM2": 1298.95,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 171
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 27,
+    "Preu": 904.17,
+    "PreuM2": 904.17,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farrï",
+    "id": 172
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 28,
+    "Preu": 830.24,
+    "PreuM2": 830.24,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 173
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 29,
+    "Preu": 653.69,
+    "PreuM2": 653.69,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 174
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 30,
+    "Preu": 855.89,
+    "PreuM2": 855.89,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 175
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 31,
+    "Preu": 829.23,
+    "PreuM2": 829.23,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 176
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 32,
+    "Preu": 823.72,
+    "PreuM2": 823.72,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 177
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 33,
+    "Preu": 747.31,
+    "PreuM2": 747.31,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Baix Guinardï",
+    "id": 178
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 34,
+    "Preu": 658.74,
+    "PreuM2": 658.74,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Can Barï",
+    "id": 179
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 35,
+    "Preu": 705.71,
+    "PreuM2": 705.71,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Guinardï",
+    "id": 180
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 36,
+    "Preu": 761.28,
+    "PreuM2": 761.28,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 181
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 37,
+    "Preu": 597.13,
+    "PreuM2": 597.13,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Carmel",
+    "id": 182
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 38,
+    "Preu": 672.65,
+    "PreuM2": 672.65,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Teixonera",
+    "id": 183
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 39,
+    "Preu": 623.6,
+    "PreuM2": 623.6,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 184
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 40,
+    "Preu": 668.46,
+    "PreuM2": 668.46,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Montbau",
+    "id": 185
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 41,
+    "Preu": 796.92,
+    "PreuM2": 796.92,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 186
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Clota",
+    "id": 187
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 43,
+    "Preu": 668.66,
+    "PreuM2": 668.66,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Horta",
+    "id": 188
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 44,
+    "Preu": 684.2,
+    "PreuM2": 684.2,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 189
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 45,
+    "Preu": 672.64,
+    "PreuM2": 672.64,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 190
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 46,
+    "Preu": 582.12,
+    "PreuM2": 582.12,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turï de la Peira",
+    "id": 191
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 47,
+    "Preu": 301.82,
+    "PreuM2": 301.82,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 192
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 48,
+    "Preu": 666.83,
+    "PreuM2": 666.83,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 193
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 49,
+    "Preu": 648.75,
+    "PreuM2": 648.75,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 194
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 50,
+    "Preu": 523.02,
+    "PreuM2": 523.02,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 195
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 51,
+    "Preu": 565.89,
+    "PreuM2": 565.89,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 196
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 52,
+    "Preu": 589.24,
+    "PreuM2": 589.24,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 197
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 53,
+    "Preu": 450.85,
+    "PreuM2": 450.85,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 198
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 54,
+    "Preu": 447.05,
+    "PreuM2": 447.05,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Barï",
+    "id": 199
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 55,
+    "Preu": 446.13,
+    "PreuM2": 446.13,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 200
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 56,
+    "Preu": 418,
+    "PreuM2": 418,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 201
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 57,
+    "Preu": 552.81,
+    "PreuM2": 552.81,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 202
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 58,
+    "Preu": 256.45,
+    "PreuM2": 256.45,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Barï de Viver",
+    "id": 203
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 59,
+    "Preu": 588.23,
+    "PreuM2": 588.23,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 204
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 60,
+    "Preu": 690.64,
+    "PreuM2": 690.64,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 205
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 61,
+    "Preu": 709.11,
+    "PreuM2": 709.11,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 206
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 62,
+    "Preu": 691.95,
+    "PreuM2": 691.95,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 207
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 63,
+    "Preu": 768.66,
+    "PreuM2": 768.66,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 208
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 64,
+    "Preu": 720.39,
+    "PreuM2": 720.39,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 209
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 65,
+    "Preu": 728.87,
+    "PreuM2": 728.87,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 210
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 66,
+    "Preu": 886.66,
+    "PreuM2": 886.66,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 211
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 67,
+    "Preu": 1285.61,
+    "PreuM2": 1285.61,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 212
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 68,
+    "Preu": 840.76,
+    "PreuM2": 840.76,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 213
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 69,
+    "Preu": 1268.48,
+    "PreuM2": 1268.48,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 214
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 70,
+    "Preu": 571.6,
+    "PreuM2": 571.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besós i el Maresme",
+    "id": 215
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 71,
+    "Preu": 987.18,
+    "PreuM2": 987.18,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 216
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 72,
+    "Preu": 720.74,
+    "PreuM2": 720.74,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 217
+  },
+  {
+    "Year": 2016,
+    "Codi_Barri": 73,
+    "Preu": 617.01,
+    "PreuM2": 617.01,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 218
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 1,
+    "Preu": 776.73,
+    "PreuM2": 776.73,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 219
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 2,
+    "Preu": 1028.49,
+    "PreuM2": 1028.49,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gótic",
+    "id": 220
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 3,
+    "Preu": 766.03,
+    "PreuM2": 766.03,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 221
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 4,
+    "Preu": 930.13,
+    "PreuM2": 930.13,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 222
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 5,
+    "Preu": 933.54,
+    "PreuM2": 933.54,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 223
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 6,
+    "Preu": 906.78,
+    "PreuM2": 906.78,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 224
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 7,
+    "Preu": 1225.08,
+    "PreuM2": 1225.08,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 225
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 8,
+    "Preu": 1098.21,
+    "PreuM2": 1098.21,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 226
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 9,
+    "Preu": 957,
+    "PreuM2": 957,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 227
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 10,
+    "Preu": 922.46,
+    "PreuM2": 922.46,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 228
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 11,
+    "Preu": 760.23,
+    "PreuM2": 760.23,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 229
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 12,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 230
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 13,
+    "Preu": 728.07,
+    "PreuM2": 728.07,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 231
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 14,
+    "Preu": 827.36,
+    "PreuM2": 827.36,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 232
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 15,
+    "Preu": 777.64,
+    "PreuM2": 777.64,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 233
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 16,
+    "Preu": 861.69,
+    "PreuM2": 861.69,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 234
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 17,
+    "Preu": 796.5,
+    "PreuM2": 796.5,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 235
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 18,
+    "Preu": 812.48,
+    "PreuM2": 812.48,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 236
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 19,
+    "Preu": 1043.76,
+    "PreuM2": 1043.76,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 237
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 20,
+    "Preu": 970.71,
+    "PreuM2": 970.71,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 238
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 21,
+    "Preu": 1882.42,
+    "PreuM2": 1882.42,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 239
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 22,
+    "Preu": 1360.42,
+    "PreuM2": 1360.42,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 240
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 23,
+    "Preu": 1423.86,
+    "PreuM2": 1423.86,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 241
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 24,
+    "Preu": 1757,
+    "PreuM2": 1757,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 242
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 25,
+    "Preu": 1324.4,
+    "PreuM2": 1324.4,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 243
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 26,
+    "Preu": 1377.82,
+    "PreuM2": 1377.82,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 244
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 27,
+    "Preu": 962.41,
+    "PreuM2": 962.41,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farrï",
+    "id": 245
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 28,
+    "Preu": 946.59,
+    "PreuM2": 946.59,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 246
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 29,
+    "Preu": 799.44,
+    "PreuM2": 799.44,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 247
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 30,
+    "Preu": 855.7,
+    "PreuM2": 855.7,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 248
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 31,
+    "Preu": 879.85,
+    "PreuM2": 879.85,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 249
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 32,
+    "Preu": 880,
+    "PreuM2": 880,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 250
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 33,
+    "Preu": 804.26,
+    "PreuM2": 804.26,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Baix Guinardï",
+    "id": 251
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 34,
+    "Preu": 710.18,
+    "PreuM2": 710.18,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Can Barï",
+    "id": 252
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 35,
+    "Preu": 759.06,
+    "PreuM2": 759.06,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Guinardï",
+    "id": 253
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 36,
+    "Preu": 922.75,
+    "PreuM2": 922.75,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 254
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 37,
+    "Preu": 610.13,
+    "PreuM2": 610.13,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Carmel",
+    "id": 255
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 38,
+    "Preu": 671.85,
+    "PreuM2": 671.85,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Teixonera",
+    "id": 256
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 39,
+    "Preu": 713.38,
+    "PreuM2": 713.38,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 257
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 40,
+    "Preu": 754.69,
+    "PreuM2": 754.69,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Montbau",
+    "id": 258
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 41,
+    "Preu": 865.42,
+    "PreuM2": 865.42,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 259
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Clota",
+    "id": 260
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 43,
+    "Preu": 708.88,
+    "PreuM2": 708.88,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Horta",
+    "id": 261
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 44,
+    "Preu": 750.43,
+    "PreuM2": 750.43,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 262
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 45,
+    "Preu": 682.83,
+    "PreuM2": 682.83,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 263
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 46,
+    "Preu": 653.52,
+    "PreuM2": 653.52,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turï de la Peira",
+    "id": 264
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 47,
+    "Preu": 407.22,
+    "PreuM2": 407.22,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 265
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 48,
+    "Preu": 693.4,
+    "PreuM2": 693.4,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 266
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 49,
+    "Preu": 701.5,
+    "PreuM2": 701.5,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 267
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 50,
+    "Preu": 565.18,
+    "PreuM2": 565.18,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 268
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 51,
+    "Preu": 600.37,
+    "PreuM2": 600.37,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 269
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 52,
+    "Preu": 641.21,
+    "PreuM2": 641.21,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 270
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 53,
+    "Preu": 551.22,
+    "PreuM2": 551.22,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 271
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 54,
+    "Preu": 463.17,
+    "PreuM2": 463.17,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Barï",
+    "id": 272
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 55,
+    "Preu": 459.19,
+    "PreuM2": 459.19,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 273
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 56,
+    "Preu": 302.52,
+    "PreuM2": 302.52,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 274
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 57,
+    "Preu": 535.92,
+    "PreuM2": 535.92,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 275
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 58,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Barï de Viver",
+    "id": 276
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 59,
+    "Preu": 653.72,
+    "PreuM2": 653.72,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 277
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 60,
+    "Preu": 751.95,
+    "PreuM2": 751.95,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 278
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 61,
+    "Preu": 732.23,
+    "PreuM2": 732.23,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 279
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 62,
+    "Preu": 761.19,
+    "PreuM2": 761.19,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 280
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 63,
+    "Preu": 805.1,
+    "PreuM2": 805.1,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 281
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 64,
+    "Preu": 797.7,
+    "PreuM2": 797.7,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 282
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 65,
+    "Preu": 777.21,
+    "PreuM2": 777.21,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 283
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 66,
+    "Preu": 916.33,
+    "PreuM2": 916.33,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 284
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 67,
+    "Preu": 1349.82,
+    "PreuM2": 1349.82,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 285
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 68,
+    "Preu": 917.87,
+    "PreuM2": 917.87,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 286
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 69,
+    "Preu": 1233.01,
+    "PreuM2": 1233.01,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 287
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 70,
+    "Preu": 625.13,
+    "PreuM2": 625.13,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besós i el Maresme",
+    "id": 288
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 71,
+    "Preu": 999.62,
+    "PreuM2": 999.62,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 289
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 72,
+    "Preu": 790.58,
+    "PreuM2": 790.58,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 290
+  },
+  {
+    "Year": 2017,
+    "Codi_Barri": 73,
+    "Preu": 711.99,
+    "PreuM2": 711.99,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 291
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 1,
+    "Preu": 849.32,
+    "PreuM2": 849.32,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 292
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 2,
+    "Preu": 1057.26,
+    "PreuM2": 1057.26,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gótic",
+    "id": 293
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 3,
+    "Preu": 923.45,
+    "PreuM2": 923.45,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 294
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 4,
+    "Preu": 1000.52,
+    "PreuM2": 1000.52,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 295
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 5,
+    "Preu": 983.1,
+    "PreuM2": 983.1,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 296
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 6,
+    "Preu": 934.89,
+    "PreuM2": 934.89,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 297
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 7,
+    "Preu": 1340.38,
+    "PreuM2": 1340.38,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 298
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 8,
+    "Preu": 1164.32,
+    "PreuM2": 1164.32,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 299
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 9,
+    "Preu": 1017.56,
+    "PreuM2": 1017.56,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 300
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 10,
+    "Preu": 970.26,
+    "PreuM2": 970.26,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 301
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 11,
+    "Preu": 822.04,
+    "PreuM2": 822.04,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 302
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 12,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 303
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 13,
+    "Preu": 778.52,
+    "PreuM2": 778.52,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 304
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 14,
+    "Preu": 871.41,
+    "PreuM2": 871.41,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 305
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 15,
+    "Preu": 814.55,
+    "PreuM2": 814.55,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 306
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 16,
+    "Preu": 830.32,
+    "PreuM2": 830.32,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 307
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 17,
+    "Preu": 831.19,
+    "PreuM2": 831.19,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 308
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 18,
+    "Preu": 856.57,
+    "PreuM2": 856.57,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 309
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 19,
+    "Preu": 1077.99,
+    "PreuM2": 1077.99,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 310
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 20,
+    "Preu": 1013.28,
+    "PreuM2": 1013.28,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 311
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 21,
+    "Preu": 1849.52,
+    "PreuM2": 1849.52,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 312
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 22,
+    "Preu": 1102.29,
+    "PreuM2": 1102.29,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 313
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 23,
+    "Preu": 1443.71,
+    "PreuM2": 1443.71,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 314
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 24,
+    "Preu": 1746.01,
+    "PreuM2": 1746.01,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 315
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 25,
+    "Preu": 1322.61,
+    "PreuM2": 1322.61,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 316
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 26,
+    "Preu": 1374.82,
+    "PreuM2": 1374.82,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 317
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 27,
+    "Preu": 1031.54,
+    "PreuM2": 1031.54,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farrï",
+    "id": 318
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 28,
+    "Preu": 971.51,
+    "PreuM2": 971.51,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 319
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 29,
+    "Preu": 756.36,
+    "PreuM2": 756.36,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 320
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 30,
+    "Preu": 930.09,
+    "PreuM2": 930.09,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 321
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 31,
+    "Preu": 927.06,
+    "PreuM2": 927.06,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 322
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 32,
+    "Preu": 945.81,
+    "PreuM2": 945.81,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 323
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 33,
+    "Preu": 839.47,
+    "PreuM2": 839.47,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Baix Guinardï",
+    "id": 324
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 34,
+    "Preu": 766.82,
+    "PreuM2": 766.82,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Can Barï",
+    "id": 325
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 35,
+    "Preu": 797.84,
+    "PreuM2": 797.84,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Guinardï",
+    "id": 326
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 36,
+    "Preu": 876.58,
+    "PreuM2": 876.58,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 327
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 37,
+    "Preu": 654.77,
+    "PreuM2": 654.77,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Carmel",
+    "id": 328
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 38,
+    "Preu": 721.23,
+    "PreuM2": 721.23,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Teixonera",
+    "id": 329
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 39,
+    "Preu": 666.91,
+    "PreuM2": 666.91,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 330
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 40,
+    "Preu": 763.82,
+    "PreuM2": 763.82,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Montbau",
+    "id": 331
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 41,
+    "Preu": 876.65,
+    "PreuM2": 876.65,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 332
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Clota",
+    "id": 333
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 43,
+    "Preu": 754.53,
+    "PreuM2": 754.53,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Horta",
+    "id": 334
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 44,
+    "Preu": 782.95,
+    "PreuM2": 782.95,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 335
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 45,
+    "Preu": 723.34,
+    "PreuM2": 723.34,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 336
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 46,
+    "Preu": 692.05,
+    "PreuM2": 692.05,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turï de la Peira",
+    "id": 337
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 47,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 338
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 48,
+    "Preu": 732.86,
+    "PreuM2": 732.86,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 339
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 49,
+    "Preu": 774.38,
+    "PreuM2": 774.38,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 340
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 50,
+    "Preu": 638.14,
+    "PreuM2": 638.14,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 341
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 51,
+    "Preu": 649.22,
+    "PreuM2": 649.22,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 342
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 52,
+    "Preu": 698.08,
+    "PreuM2": 698.08,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 343
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 53,
+    "Preu": 592.73,
+    "PreuM2": 592.73,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 344
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 54,
+    "Preu": 434.52,
+    "PreuM2": 434.52,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Barï",
+    "id": 345
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 55,
+    "Preu": 514.52,
+    "PreuM2": 514.52,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 346
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 56,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 347
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 57,
+    "Preu": 598.29,
+    "PreuM2": 598.29,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 348
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 58,
+    "Preu": 673.69,
+    "PreuM2": 673.69,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Barï de Viver",
+    "id": 349
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 59,
+    "Preu": 696.06,
+    "PreuM2": 696.06,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 350
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 60,
+    "Preu": 782.15,
+    "PreuM2": 782.15,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 351
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 61,
+    "Preu": 798.39,
+    "PreuM2": 798.39,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 352
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 62,
+    "Preu": 804.74,
+    "PreuM2": 804.74,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 353
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 63,
+    "Preu": 840.01,
+    "PreuM2": 840.01,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 354
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 64,
+    "Preu": 851.58,
+    "PreuM2": 851.58,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 355
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 65,
+    "Preu": 835.55,
+    "PreuM2": 835.55,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 356
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 66,
+    "Preu": 1198.77,
+    "PreuM2": 1198.77,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 357
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 67,
+    "Preu": 1292.23,
+    "PreuM2": 1292.23,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 358
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 68,
+    "Preu": 1006.81,
+    "PreuM2": 1006.81,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 359
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 69,
+    "Preu": 1371.14,
+    "PreuM2": 1371.14,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 360
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 70,
+    "Preu": 711.67,
+    "PreuM2": 711.67,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besós i el Maresme",
+    "id": 361
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 71,
+    "Preu": 999.63,
+    "PreuM2": 999.63,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 362
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 72,
+    "Preu": 823.46,
+    "PreuM2": 823.46,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 363
+  },
+  {
+    "Year": 2018,
+    "Codi_Barri": 73,
+    "Preu": 767.1,
+    "PreuM2": 767.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 364
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 1,
+    "Preu": 869.1,
+    "PreuM2": 869.1,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 365
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 2,
+    "Preu": 1139.7,
+    "PreuM2": 1139.7,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gótic",
+    "id": 366
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 3,
+    "Preu": 924,
+    "PreuM2": 924,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 367
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 4,
+    "Preu": 1020.2,
+    "PreuM2": 1020.2,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 368
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 5,
+    "Preu": 1064.4,
+    "PreuM2": 1064.4,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 369
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 6,
+    "Preu": 980,
+    "PreuM2": 980,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 370
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 7,
+    "Preu": 1348.9,
+    "PreuM2": 1348.9,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 371
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 8,
+    "Preu": 1194.4,
+    "PreuM2": 1194.4,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 372
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 9,
+    "Preu": 1083.7,
+    "PreuM2": 1083.7,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 373
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 10,
+    "Preu": 1018.4,
+    "PreuM2": 1018.4,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 374
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 11,
+    "Preu": 865.8,
+    "PreuM2": 865.8,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 375
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 12,
+    "Preu": 350.5,
+    "PreuM2": 350.5,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 376
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 13,
+    "Preu": 816.7,
+    "PreuM2": 816.7,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 377
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 14,
+    "Preu": 881.5,
+    "PreuM2": 881.5,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 378
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 15,
+    "Preu": 854.4,
+    "PreuM2": 854.4,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 379
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 16,
+    "Preu": 870,
+    "PreuM2": 870,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 380
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 17,
+    "Preu": 888.3,
+    "PreuM2": 888.3,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 381
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 18,
+    "Preu": 884.8,
+    "PreuM2": 884.8,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 382
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 19,
+    "Preu": 1116.2,
+    "PreuM2": 1116.2,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 383
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 20,
+    "Preu": 1078.1,
+    "PreuM2": 1078.1,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 384
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 21,
+    "Preu": 2023.4,
+    "PreuM2": 2023.4,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 385
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 22,
+    "Preu": 1355.5,
+    "PreuM2": 1355.5,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 386
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 23,
+    "Preu": 1449.5,
+    "PreuM2": 1449.5,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 387
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 24,
+    "Preu": 1745,
+    "PreuM2": 1745,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 388
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 25,
+    "Preu": 1361.6,
+    "PreuM2": 1361.6,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 389
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 26,
+    "Preu": 1455.9,
+    "PreuM2": 1455.9,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 390
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 27,
+    "Preu": 1115.7,
+    "PreuM2": 1115.7,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farrï",
+    "id": 391
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 28,
+    "Preu": 1028.9,
+    "PreuM2": 1028.9,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 392
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 29,
+    "Preu": 819.8,
+    "PreuM2": 819.8,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 393
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 30,
+    "Preu": 954.4,
+    "PreuM2": 954.4,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 394
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 31,
+    "Preu": 991.5,
+    "PreuM2": 991.5,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 395
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 32,
+    "Preu": 1017.6,
+    "PreuM2": 1017.6,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 396
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 33,
+    "Preu": 902.2,
+    "PreuM2": 902.2,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Baix Guinardï",
+    "id": 397
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 34,
+    "Preu": 791.2,
+    "PreuM2": 791.2,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Can Barï",
+    "id": 398
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 35,
+    "Preu": 843.1,
+    "PreuM2": 843.1,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Guinardï",
+    "id": 399
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 36,
+    "Preu": 1044,
+    "PreuM2": 1044,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 400
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 37,
+    "Preu": 703.3,
+    "PreuM2": 703.3,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "el Carmel",
+    "id": 401
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 38,
+    "Preu": 773.7,
+    "PreuM2": 773.7,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Teixonera",
+    "id": 402
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 39,
+    "Preu": 759.2,
+    "PreuM2": 759.2,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 403
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 40,
+    "Preu": 802.4,
+    "PreuM2": 802.4,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Montbau",
+    "id": 404
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 41,
+    "Preu": 954.5,
+    "PreuM2": 954.5,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 405
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "la Clota",
+    "id": 406
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 43,
+    "Preu": 802.5,
+    "PreuM2": 802.5,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardï",
+    "Nom_Barri": "Horta",
+    "id": 407
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 44,
+    "Preu": 801.8,
+    "PreuM2": 801.8,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 408
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 45,
+    "Preu": 775.3,
+    "PreuM2": 775.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 409
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 46,
+    "Preu": 710.7,
+    "PreuM2": 710.7,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turï de la Peira",
+    "id": 410
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 47,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 411
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 48,
+    "Preu": 783,
+    "PreuM2": 783,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 412
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 49,
+    "Preu": 791.9,
+    "PreuM2": 791.9,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 413
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 50,
+    "Preu": 636.1,
+    "PreuM2": 636.1,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 414
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 51,
+    "Preu": 696.1,
+    "PreuM2": 696.1,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 415
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 52,
+    "Preu": 696.3,
+    "PreuM2": 696.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 416
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 53,
+    "Preu": 640.2,
+    "PreuM2": 640.2,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 417
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 54,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Barï",
+    "id": 418
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 55,
+    "Preu": 575.4,
+    "PreuM2": 575.4,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 419
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 56,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 420
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 57,
+    "Preu": 622.3,
+    "PreuM2": 622.3,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 421
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 58,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Barï de Viver",
+    "id": 422
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 59,
+    "Preu": 713.4,
+    "PreuM2": 713.4,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 423
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 60,
+    "Preu": 819.3,
+    "PreuM2": 819.3,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 424
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 61,
+    "Preu": 829.1,
+    "PreuM2": 829.1,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 425
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 62,
+    "Preu": 816.7,
+    "PreuM2": 816.7,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 426
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 63,
+    "Preu": 864.6,
+    "PreuM2": 864.6,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 427
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 64,
+    "Preu": 879.5,
+    "PreuM2": 879.5,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 428
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 65,
+    "Preu": 899.1,
+    "PreuM2": 899.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 429
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 66,
+    "Preu": 1072.8,
+    "PreuM2": 1072.8,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 430
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 67,
+    "Preu": 1444.6,
+    "PreuM2": 1444.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 431
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 68,
+    "Preu": 1051.3,
+    "PreuM2": 1051.3,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 432
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 69,
+    "Preu": 1498.6,
+    "PreuM2": 1498.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 433
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 70,
+    "Preu": 844.5,
+    "PreuM2": 844.5,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besós i el Maresme",
+    "id": 434
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 71,
+    "Preu": 1013.6,
+    "PreuM2": 1013.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 435
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 72,
+    "Preu": 844.1,
+    "PreuM2": 844.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 436
+  },
+  {
+    "Year": 2019,
+    "Codi_Barri": 73,
+    "Preu": 798.1,
+    "PreuM2": 798.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 437
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 1,
+    "Preu": 864.5,
+    "PreuM2": 864.5,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 438
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 2,
+    "Preu": 1110.2,
+    "PreuM2": 1110.2,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gòtic",
+    "id": 439
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 3,
+    "Preu": 899.5,
+    "PreuM2": 899.5,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 440
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 4,
+    "Preu": 1030,
+    "PreuM2": 1030,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 441
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 5,
+    "Preu": 1059.9,
+    "PreuM2": 1059.9,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 442
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 6,
+    "Preu": 973,
+    "PreuM2": 973,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 443
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 7,
+    "Preu": 1349.6,
+    "PreuM2": 1349.6,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 444
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 8,
+    "Preu": 1192.3,
+    "PreuM2": 1192.3,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 445
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 9,
+    "Preu": 1067.4,
+    "PreuM2": 1067.4,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 446
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 10,
+    "Preu": 1010.5,
+    "PreuM2": 1010.5,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 447
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 11,
+    "Preu": 856.2,
+    "PreuM2": 856.2,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 448
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 12,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 449
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 13,
+    "Preu": 828.2,
+    "PreuM2": 828.2,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 450
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 14,
+    "Preu": 882.4,
+    "PreuM2": 882.4,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 451
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 15,
+    "Preu": 867.8,
+    "PreuM2": 867.8,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 452
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 16,
+    "Preu": 893.6,
+    "PreuM2": 893.6,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 453
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 17,
+    "Preu": 858.3,
+    "PreuM2": 858.3,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 454
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 18,
+    "Preu": 891.4,
+    "PreuM2": 891.4,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 455
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 19,
+    "Preu": 1096.6,
+    "PreuM2": 1096.6,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 456
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 20,
+    "Preu": 1012.4,
+    "PreuM2": 1012.4,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 457
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 21,
+    "Preu": 1932.3,
+    "PreuM2": 1932.3,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 458
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 22,
+    "Preu": 1390,
+    "PreuM2": 1390,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 459
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 23,
+    "Preu": 1432.2,
+    "PreuM2": 1432.2,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 460
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 24,
+    "Preu": 1729.5,
+    "PreuM2": 1729.5,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 461
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 25,
+    "Preu": 1321.9,
+    "PreuM2": 1321.9,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 462
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 26,
+    "Preu": 1427.9,
+    "PreuM2": 1427.9,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 463
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 27,
+    "Preu": 1073.4,
+    "PreuM2": 1073.4,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farró",
+    "id": 464
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 28,
+    "Preu": 1060.5,
+    "PreuM2": 1060.5,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 465
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 29,
+    "Preu": 910.3,
+    "PreuM2": 910.3,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 466
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 30,
+    "Preu": 1001.2,
+    "PreuM2": 1001.2,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 467
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 31,
+    "Preu": 963.6,
+    "PreuM2": 963.6,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 468
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 32,
+    "Preu": 968.7,
+    "PreuM2": 968.7,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 469
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 33,
+    "Preu": 920.8,
+    "PreuM2": 920.8,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "el Baix Guinardó",
+    "id": 470
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 34,
+    "Preu": 848.5,
+    "PreuM2": 848.5,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Can Baró",
+    "id": 471
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 35,
+    "Preu": 860.4,
+    "PreuM2": 860.4,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "el Guinardó",
+    "id": 472
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 36,
+    "Preu": 997.3,
+    "PreuM2": 997.3,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 473
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 37,
+    "Preu": 707.9,
+    "PreuM2": 707.9,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "el Carmel",
+    "id": 474
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 38,
+    "Preu": 748.5,
+    "PreuM2": 748.5,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Teixonera",
+    "id": 475
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 39,
+    "Preu": 791.3,
+    "PreuM2": 791.3,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 476
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 40,
+    "Preu": 798.3,
+    "PreuM2": 798.3,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Montbau",
+    "id": 477
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 41,
+    "Preu": 963.4,
+    "PreuM2": 963.4,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 478
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Clota",
+    "id": 479
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 43,
+    "Preu": 815.7,
+    "PreuM2": 815.7,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Horta",
+    "id": 480
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 44,
+    "Preu": 842,
+    "PreuM2": 842,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 481
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 45,
+    "Preu": 759.3,
+    "PreuM2": 759.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 482
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 46,
+    "Preu": 721.3,
+    "PreuM2": 721.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turó de la Peira",
+    "id": 483
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 47,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 484
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 48,
+    "Preu": 771.4,
+    "PreuM2": 771.4,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 485
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 49,
+    "Preu": 833.3,
+    "PreuM2": 833.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 486
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 50,
+    "Preu": 651.3,
+    "PreuM2": 651.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 487
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 51,
+    "Preu": 692.2,
+    "PreuM2": 692.2,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 488
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 52,
+    "Preu": 714.8,
+    "PreuM2": 714.8,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 489
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 53,
+    "Preu": 623.8,
+    "PreuM2": 623.8,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 490
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 54,
+    "Preu": 452,
+    "PreuM2": 452,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Baró",
+    "id": 491
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 55,
+    "Preu": 572.4,
+    "PreuM2": 572.4,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 492
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 56,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 493
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 57,
+    "Preu": 701,
+    "PreuM2": 701,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 494
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 58,
+    "Preu": 584.1,
+    "PreuM2": 584.1,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Baró de Viver",
+    "id": 495
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 59,
+    "Preu": 759.5,
+    "PreuM2": 759.5,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 496
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 60,
+    "Preu": 835.3,
+    "PreuM2": 835.3,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 497
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 61,
+    "Preu": 809.5,
+    "PreuM2": 809.5,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 498
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 62,
+    "Preu": 834.2,
+    "PreuM2": 834.2,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 499
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 63,
+    "Preu": 898.5,
+    "PreuM2": 898.5,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 500
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 64,
+    "Preu": 894.2,
+    "PreuM2": 894.2,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 501
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 65,
+    "Preu": 890.9,
+    "PreuM2": 890.9,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 502
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 66,
+    "Preu": 1006.3,
+    "PreuM2": 1006.3,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 503
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 67,
+    "Preu": 1446.1,
+    "PreuM2": 1446.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 504
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 68,
+    "Preu": 1037,
+    "PreuM2": 1037,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 505
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 69,
+    "Preu": 1392.6,
+    "PreuM2": 1392.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 506
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 70,
+    "Preu": 801.5,
+    "PreuM2": 801.5,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besòs i el Maresme",
+    "id": 507
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 71,
+    "Preu": 1076.6,
+    "PreuM2": 1076.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 508
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 72,
+    "Preu": 863,
+    "PreuM2": 863,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 509
+  },
+  {
+    "Year": 2020,
+    "Codi_Barri": 73,
+    "Preu": 782.4,
+    "PreuM2": 782.4,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 510
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 1,
+    "Preu": 774.2,
+    "PreuM2": 774.2,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Raval",
+    "id": 511
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 2,
+    "Preu": 968.4,
+    "PreuM2": 968.4,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "el Barri Gòtic",
+    "id": 512
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 3,
+    "Preu": 877.9,
+    "PreuM2": 877.9,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "la Barceloneta",
+    "id": 513
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 4,
+    "Preu": 922.8,
+    "PreuM2": 922.8,
+    "Codi_Districte": 1,
+    "Nom_Districte": "Ciutat Vella",
+    "Nom_Barri": "Sant Pere, Santa Caterina i la Ribera",
+    "id": 514
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 5,
+    "Preu": 976.9,
+    "PreuM2": 976.9,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "el Fort Pienc",
+    "id": 515
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 6,
+    "Preu": 924.4,
+    "PreuM2": 924.4,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Sagrada Família",
+    "id": 516
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 7,
+    "Preu": 1220.8,
+    "PreuM2": 1220.8,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Dreta de l'Eixample",
+    "id": 517
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 8,
+    "Preu": 1114.9,
+    "PreuM2": 1114.9,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "l'Antiga Esquerra de l'Eixample",
+    "id": 518
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 9,
+    "Preu": 968.6,
+    "PreuM2": 968.6,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "la Nova Esquerra de l'Eixample",
+    "id": 519
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 10,
+    "Preu": 955.7,
+    "PreuM2": 955.7,
+    "Codi_Districte": 2,
+    "Nom_Districte": "Eixample",
+    "Nom_Barri": "Sant Antoni",
+    "id": 520
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 11,
+    "Preu": 787,
+    "PreuM2": 787,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "el Poble Sec",
+    "id": 521
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 12,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina del Prat Vermell",
+    "id": 522
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 13,
+    "Preu": 810.6,
+    "PreuM2": 810.6,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Marina de Port",
+    "id": 523
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 14,
+    "Preu": 858.7,
+    "PreuM2": 858.7,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Font de la Guatlla",
+    "id": 524
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 15,
+    "Preu": 809.5,
+    "PreuM2": 809.5,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Hostafrancs",
+    "id": 525
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 16,
+    "Preu": 872.5,
+    "PreuM2": 872.5,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "la Bordeta",
+    "id": 526
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 17,
+    "Preu": 805.9,
+    "PreuM2": 805.9,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants - Badal",
+    "id": 527
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 18,
+    "Preu": 836.7,
+    "PreuM2": 836.7,
+    "Codi_Districte": 3,
+    "Nom_Districte": "Sants-Montjuïc",
+    "Nom_Barri": "Sants",
+    "id": 528
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 19,
+    "Preu": 1052.8,
+    "PreuM2": 1052.8,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "les Corts",
+    "id": 529
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 20,
+    "Preu": 982.9,
+    "PreuM2": 982.9,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "la Maternitat i Sant Ramon",
+    "id": 530
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 21,
+    "Preu": 1816.5,
+    "PreuM2": 1816.5,
+    "Codi_Districte": 4,
+    "Nom_Districte": "Les Corts",
+    "Nom_Barri": "Pedralbes",
+    "id": 531
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 22,
+    "Preu": 1531.7,
+    "PreuM2": 1531.7,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Vallvidrera, el Tibidabo i les Planes",
+    "id": 532
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 23,
+    "Preu": 1345.2,
+    "PreuM2": 1345.2,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sarrià",
+    "id": 533
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 24,
+    "Preu": 1597.4,
+    "PreuM2": 1597.4,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "les Tres Torres",
+    "id": 534
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 25,
+    "Preu": 1264.8,
+    "PreuM2": 1264.8,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - la Bonanova",
+    "id": 535
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 26,
+    "Preu": 1433.7,
+    "PreuM2": 1433.7,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "Sant Gervasi - Galvany",
+    "id": 536
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 27,
+    "Preu": 1024.4,
+    "PreuM2": 1024.4,
+    "Codi_Districte": 5,
+    "Nom_Districte": "Sarrià-Sant Gervasi",
+    "Nom_Barri": "el Putxet i el Farró",
+    "id": 537
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 28,
+    "Preu": 961,
+    "PreuM2": 961,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "Vallcarca i els Penitents",
+    "id": 538
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 29,
+    "Preu": 796.8,
+    "PreuM2": 796.8,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Coll",
+    "id": 539
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 30,
+    "Preu": 934.6,
+    "PreuM2": 934.6,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Salut",
+    "id": 540
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 31,
+    "Preu": 920.9,
+    "PreuM2": 920.9,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "la Vila de Gràcia",
+    "id": 541
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 32,
+    "Preu": 926.5,
+    "PreuM2": 926.5,
+    "Codi_Districte": 6,
+    "Nom_Districte": "Gràcia",
+    "Nom_Barri": "el Camp d'en Grassot i Gràcia Nova",
+    "id": 542
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 33,
+    "Preu": 836.3,
+    "PreuM2": 836.3,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "el Baix Guinardó",
+    "id": 543
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 34,
+    "Preu": 773.5,
+    "PreuM2": 773.5,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Can Baró",
+    "id": 544
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 35,
+    "Preu": 823.6,
+    "PreuM2": 823.6,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "el Guinardó",
+    "id": 545
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 36,
+    "Preu": 835.3,
+    "PreuM2": 835.3,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Font d'en Fargues",
+    "id": 546
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 37,
+    "Preu": 683.8,
+    "PreuM2": 683.8,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "el Carmel",
+    "id": 547
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 38,
+    "Preu": 739.7,
+    "PreuM2": 739.7,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Teixonera",
+    "id": 548
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 39,
+    "Preu": 785.6,
+    "PreuM2": 785.6,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Sant Genís dels Agudells",
+    "id": 549
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 40,
+    "Preu": 745.9,
+    "PreuM2": 745.9,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Montbau",
+    "id": 550
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 41,
+    "Preu": 884.2,
+    "PreuM2": 884.2,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Vall d'Hebron",
+    "id": 551
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 42,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "la Clota",
+    "id": 552
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 43,
+    "Preu": 760.4,
+    "PreuM2": 760.4,
+    "Codi_Districte": 7,
+    "Nom_Districte": "Horta-Guinardó",
+    "Nom_Barri": "Horta",
+    "id": 553
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 44,
+    "Preu": 803.7,
+    "PreuM2": 803.7,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vilapicina i la Torre Llobeta",
+    "id": 554
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 45,
+    "Preu": 740.4,
+    "PreuM2": 740.4,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Porta",
+    "id": 555
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 46,
+    "Preu": 691.9,
+    "PreuM2": 691.9,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "el Turó de la Peira",
+    "id": 556
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 47,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Can Peguera",
+    "id": 557
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 48,
+    "Preu": 698.3,
+    "PreuM2": 698.3,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Guineueta",
+    "id": 558
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 49,
+    "Preu": 769.9,
+    "PreuM2": 769.9,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Canyelles",
+    "id": 559
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 50,
+    "Preu": 643.6,
+    "PreuM2": 643.6,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "les Roquetes",
+    "id": 560
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 51,
+    "Preu": 666.6,
+    "PreuM2": 666.6,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Verdun",
+    "id": 561
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 52,
+    "Preu": 683.9,
+    "PreuM2": 683.9,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Prosperitat",
+    "id": 562
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 53,
+    "Preu": 610.4,
+    "PreuM2": 610.4,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "la Trinitat Nova",
+    "id": 563
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 54,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Torre Baró",
+    "id": 564
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 55,
+    "Preu": 547.7,
+    "PreuM2": 547.7,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Ciutat Meridiana",
+    "id": 565
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 56,
+    "Preu": 0,
+    "PreuM2": 0,
+    "Codi_Districte": 8,
+    "Nom_Districte": "Nou Barris",
+    "Nom_Barri": "Vallbona",
+    "id": 566
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 57,
+    "Preu": 626.6,
+    "PreuM2": 626.6,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Trinitat Vella",
+    "id": 567
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 58,
+    "Preu": 616.7,
+    "PreuM2": 616.7,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Baró de Viver",
+    "id": 568
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 59,
+    "Preu": 741.9,
+    "PreuM2": 741.9,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Bon Pastor",
+    "id": 569
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 60,
+    "Preu": 792.9,
+    "PreuM2": 792.9,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Sant Andreu",
+    "id": 570
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 61,
+    "Preu": 798.6,
+    "PreuM2": 798.6,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "la Sagrera",
+    "id": 571
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 62,
+    "Preu": 799.2,
+    "PreuM2": 799.2,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "el Congrés i els Indians",
+    "id": 572
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 63,
+    "Preu": 827.2,
+    "PreuM2": 827.2,
+    "Codi_Districte": 9,
+    "Nom_Districte": "Sant Andreu",
+    "Nom_Barri": "Navas",
+    "id": 573
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 64,
+    "Preu": 842.1,
+    "PreuM2": 842.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Camp de l'Arpa del Clot",
+    "id": 574
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 65,
+    "Preu": 853.6,
+    "PreuM2": 853.6,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Clot",
+    "id": 575
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 66,
+    "Preu": 1040.7,
+    "PreuM2": 1040.7,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Parc i la Llacuna del Poblenou",
+    "id": 576
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 67,
+    "Preu": 1364.7,
+    "PreuM2": 1364.7,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Vila Olímpica del Poblenou",
+    "id": 577
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 68,
+    "Preu": 971.3,
+    "PreuM2": 971.3,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Poblenou",
+    "id": 578
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 69,
+    "Preu": 1205.3,
+    "PreuM2": 1205.3,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Diagonal Mar i el Front Marítim del Poblenou",
+    "id": 579
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 70,
+    "Preu": 736.1,
+    "PreuM2": 736.1,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "el Besòs i el Maresme",
+    "id": 580
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 71,
+    "Preu": 977.8,
+    "PreuM2": 977.8,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Provençals del Poblenou",
+    "id": 581
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 72,
+    "Preu": 826.2,
+    "PreuM2": 826.2,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "Sant Martí de Provençals",
+    "id": 582
+  },
+  {
+    "Year": 2021,
+    "Codi_Barri": 73,
+    "Preu": 752.9,
+    "PreuM2": 752.9,
+    "Codi_Districte": 10,
+    "Nom_Districte": "Sant Martí",
+    "Nom_Barri": "la Verneda i la Pau",
+    "id": 583
+  }
+]
