@@ -10,23 +10,34 @@ class MySpider(scrapy.Spider):
 
     name = 'myspider'
 
-    allowed_domains = ['en.wikipedia.org']
+    allowed_domains = ['ca.wikipedia.org']
 
-    start_urls = ["https://en.wikipedia.org/wiki/Districts_of_Barcelona"]
+    start_urls = ["https://ca.wikipedia.org/wiki/Districtes_i_barris_de_Barcelona"]
 
     def parse(self, response):
-        trs = response.css(".wikitable>tbody>tr")
+        trs = response.css(".bellataula>tbody>tr")
         for i in range(2, 75):
-            barri_url = trs[i].css("td a")[-1].attrib["href"]
+            if i in [2,6,12,20,23,29,34,45,58,65]:
+                #print(i)
+                barri_url = trs[i].css("td a")[2].attrib["href"]
+            else:
+                barri_url = trs[i].css("td a")[-1].attrib["href"]
+            # print(barri_url)
             yield response.follow(barri_url, callback=self.parse_barri, meta={'id':i-2})
 
     def parse_barri(self, response):
-        first_paragraph = cleanString(" ".join(response.css("#mw-content-text>div>p")[0].css("*::text").extract()))
-        #second_paragraph = " ".join(response.css("#mw-content-text>div>p")[1].css("*::text").extract())
+        #first_paragraph = cleanString(" ".join(response.css("#mw-content-text>div>p")[0].css("*::text").extract()))
+        i = 0
         
+        img = "https:"+response.css(".image>img")[i].attrib["src"]
+        while "svg" in img.lower() or "flag" in img.lower():
+            img = "https:"+response.css(".image>img")[i].attrib["src"]
+            i+=1
+
         print(json.dumps({
             "id":response.meta.get('id'),
-            "description":first_paragraph
+            #"description": first_paragraph,
+            "img":img
         }),",")
 
 
