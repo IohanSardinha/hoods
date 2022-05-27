@@ -1,20 +1,44 @@
 {
-    "name": "Gracia",
-    "description": "Elit elit et commodo occaecat cillum mollit aliqua esse esse id pariatur et ullamco nostrud. Aliqua tempor magna magna incididunt. Tempor incididunt est ullamco ut minim cillum. Anim minim id mollit ullamco amet commodo reprehenderit qui aliquip est. Dolor reprehenderit est culpa voluptate eiusmod veniam. Quis deserunt aliqua in est sint exercitation pariatur nisi sunt dolore.",
-    "avgRent": 600.00,
-    "news": [
-        {
-            "title": "Lorem id sint ut occaecat magna laboris.",
-            "date": "16/05/2022"
-        },
-        {
-            "title": "Lorem id sint ut occaecat magna laboris.",
-            "date": "16/05/2022"
-        },
-        {
-            "title": "Lorem id sint ut occaecat magna laboris.",
-            "date": "16/05/2022"
-        }
-    ]
-    
+    "cafes_avg": 3.884210526315789473684210526,
+    "discos_num": 28,
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bird_view_%287448562738%29.jpg/300px-Bird_view_%287448562738%29.jpg",
+    "playgrounds_num": 40,
+    "Codi_Districte": 2,
+    "parks_num": 26,
+    "Preu": {
+        "y2020": 980,
+        "y2021": 973,
+        "y2014": 697.69,
+        "y2015": 697.69,
+        "y2016": 739,
+        "y2017": 806.4,
+        "y2018": 906.78,
+        "y2019": 934.89
+    },
+    "bars_avg": 4.156410256410256410256410256,
+    "discos_avg": 3.871428571428571428571428571,
+    "Nom_Barri": "la Sagrada Família",
+    "center": {
+        "lng": 2.1777296,
+        "lat": 41.40435391111111
+    },
+    "restaurants_avg": 4.064102564102564102564102564,
+    "parks_avg": 3.903846153846153846153846154,
+    "Nom_Districte": "Eixample",
+    "cafes_num": 38,
+    "bars_num": 39,
+    "playgrounds_avg": 2.5175,
+    "PreuM2": {
+        "y2020": 980,
+        "y2021": 973,
+        "y2014": 697.69,
+        "y2015": 697.69,
+        "y2016": 739,
+        "y2017": 806.4,
+        "y2018": 906.78,
+        "y2019": 934.89
+    },
+    "restaurants_num": 39,
+    "description": "Sagrada Família  ( Catalan pronunciation:  [səˈɣɾaðə fəˈmiliə] ) is a neighborhood in the  Eixample  district of  Barcelona ,  Catalonia  ( Spain ). Its name comes from the church of the  Sagrada Família , work of  Antoni Gaudí , which can be found in the center of the neighborhood.",
+    "id": 5
 }
