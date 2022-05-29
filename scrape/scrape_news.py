@@ -55,11 +55,12 @@ class MySpider(scrapy.Spider):
 
             table.put_item(Item=item)
         
+TABLE_NAME = "scraped_news"
 
-session=boto3.Session(aws_access_key_id='AKIA56RSXOYZPEUFJTR5',aws_secret_access_key='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', region_name='eu-west-1')
-client_dynamo=session.resource('dynamodb')
-table=client_dynamo.Table('scraped_news')
+dynamodb = boto3.resource('dynamodb', region_name="eu-west-1")
+table = dynamodb.Table(TABLE_NAME)
 
 c = CrawlerProcess()
 c.crawl(MySpider)
 c.start()
+print('Done!')
