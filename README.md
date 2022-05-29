@@ -1,5 +1,5 @@
 # HOODS
-## Housing Overview Open Data Survey
+## HOusing Open Data Survey
 By:
 - André Gaillard andre.gaillard@hoods.com
 - Demira Dimitrova demira.dimitrova@hoods.com
