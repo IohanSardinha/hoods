@@ -1,6 +1,10 @@
 import json
+import sys
 
-with open("csvjson.json","r") as f:
+if sys.argc < 3:
+    print("usage: python change_data.py input.json output.json")
+
+with open(sys.argv[1],"r") as f:
     data = json.loads(f.read())
     final = []
     print(data)
@@ -32,5 +36,5 @@ with open("csvjson.json","r") as f:
             "Nom_Districte": data[i]["Nom_Districte"],
             "Nom_Barri": data[i]["Nom_Barri"]
         })
-    with open("final.json", "w") as f2:
+    with open(sys.argv[2], "w") as f2:
         f2.write(json.dumps(final))

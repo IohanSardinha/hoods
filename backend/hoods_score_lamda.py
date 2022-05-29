@@ -7,18 +7,19 @@ from boto3.dynamodb.conditions import Key
 import base64
 from botocore.exceptions import ClientError
 
+client = boto3.client('secretsmanager')
+response = client.get_secret_value(
+    SecretId='MAPS_API_KEY'
+)
+
+MAPS_API_KEY = response['SecretString']
 TABLE_NAME = "hoods_rent_prices"
-MAPS_API_KEY= ""
-
-
-session = boto3.Session(aws_access_key_id='AKIA56RSXOYZPEUFJTR5',aws_secret_access_key='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', region_name='eu-west-1')
-
 
 # Creating the DynamoDB Client
-dynamodb_client = boto3.client('dynamodb', region_name="eu-west-1")
+# dynamodb_client = boto3.client('dynamodb', region_name="eu-west-1")
 
 # Creating the DynamoDB Table Resource
-dynamodb = session.resource('dynamodb')
+dynamodb = boto3.resource('dynamodb', region_name="eu-west-1")
 table = dynamodb.Table(TABLE_NAME)
 
 n_barris = 73
@@ -255,12 +256,3 @@ def lambda_handler(event, context):
             },
         'body': json.dumps(str(ValueError('Unsupported method %s'%operation)))
     }
-
-
-print(lambda_handler({
-    'httpMethod':"GET",
-    'queryStringParameters':{
-        'origin':'Placa de Catalunya',
-        'bars':True
-    }
-}, None)["body"])

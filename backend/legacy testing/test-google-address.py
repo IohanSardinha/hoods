@@ -2,11 +2,13 @@ import json
 import requests
 import urllib.parse
 
+API_KEY = "YOUR_KEY"
+
 def main():
 	from datetime import datetime
 	import googlemaps
 	
-	gmaps = googlemaps.Client(key='AIzaSyBqmA-bUOGcjvdsa38whNoiIb0oUBr5IpE')
+	gmaps = googlemaps.Client(key=API_KEY)
 
 	aux = []
 	aux2 = []
@@ -48,8 +50,6 @@ def main():
 	print(json_str)
 
 
-
-API_KEY = "AIzaSyBqmA-bUOGcjvdsa38whNoiIb0oUBr5IpE"
 
 origins_list = ["Microsoft Iberica barcelona"]
 origins = urllib.parse.quote("|".join(origins_list))

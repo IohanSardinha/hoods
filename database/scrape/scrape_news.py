@@ -56,7 +56,7 @@ class MySpider(scrapy.Spider):
             table.put_item(Item=item)
         
 
-session=boto3.Session(aws_access_key_id='AKIA56RSXOYZPEUFJTR5',aws_secret_access_key='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', region_name='eu-west-1')
+session=boto3.Session(aws_access_key_id='_________',aws_secret_access_key='______', region_name='eu-west-1')
 client_dynamo=session.resource('dynamodb')
 table=client_dynamo.Table('scraped_news')
 

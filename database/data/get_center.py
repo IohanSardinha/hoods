@@ -1,6 +1,10 @@
 import json
+import sys
 
-with open("polys3.json") as file:
+if sys.argc < 2:
+    print("usage: python fix_prices.py file.json")
+
+with open(sys.argv[1]) as file:
     centers = []
     polygons = json.loads(file.read())
     for i, polygon in enumerate(polygons):

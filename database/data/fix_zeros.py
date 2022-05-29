@@ -1,6 +1,11 @@
 import json
+import sys
 
-with open("final.json","r") as f:
+if sys.argc < 2:
+    print("usage: python change_data.py file.json")
+
+
+with open(sys.argv[1],"r") as f:
     data = json.loads(f.read())
     #for j in range(10):
     for i in range(73):
