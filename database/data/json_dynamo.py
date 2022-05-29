@@ -12,7 +12,7 @@ table=client_dynamo.Table('___')
 records=""
 
 if sys.argc < 2:
-    print("usage: python fix_prices.py file.json")
+    print("usage: python json_dynamo.py file.json")
 
 with open(sys.argv[1],'r') as f:
   records = json.loads(f.read(), parse_float=Decimal)

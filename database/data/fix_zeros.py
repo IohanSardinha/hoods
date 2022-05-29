@@ -1,8 +1,8 @@
 import json
 import sys
 
-if sys.argc < 2:
-    print("usage: python change_data.py file.json")
+if sys.argc < 3:
+    print("usage: python change_data.py input.json output.json")
 
 
 with open(sys.argv[1],"r") as f:
@@ -38,5 +38,5 @@ with open(sys.argv[1],"r") as f:
     
             
         
-    with open("fixed_zeros.json", "w") as f2:
+    with open(sys.argv[2], "w") as f2:
         f2.write(json.dumps(data))

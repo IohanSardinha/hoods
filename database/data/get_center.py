@@ -1,8 +1,8 @@
 import json
 import sys
 
-if sys.argc < 2:
-    print("usage: python fix_prices.py file.json")
+if sys.argc < 3:
+    print("usage: python get_center.py file.json output.json")
 
 with open(sys.argv[1]) as file:
     centers = []
@@ -24,5 +24,5 @@ with open(sys.argv[1]) as file:
             }
         })
     
-    with open("centers.json", "w") as f2:
+    with open(sys.argv[2], "w") as f2:
         f2.write(json.dumps(centers))
