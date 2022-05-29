@@ -1,0 +1,585 @@
+"Any","Trimestre","Codi_Districte","Nom_Districte","Codi_Barri","Nom_Barri","Lloguer_mitja","Preu"
+2016,"1",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  mensual (Euros/mes)",624.42
+2016,"1",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  mensual (Euros/mes)",893.42
+2016,"1",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  mensual (Euros/mes)",638.75
+2016,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  mensual (Euros/mes)",759.16
+2016,"1",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  mensual (Euros/mes)",800.08
+2016,"1",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  mensual (Euros/mes)",752.37
+2016,"1",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",1104.26
+2016,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",947.3
+2016,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",811.62
+2016,"1",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  mensual (Euros/mes)",805.89
+2016,"1",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  mensual (Euros/mes)",622.24
+2016,"1",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  mensual (Euros/mes)",360.88
+2016,"1",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  mensual (Euros/mes)",447.57
+2016,"1",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  mensual (Euros/mes)",638.73
+2016,"1",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  mensual (Euros/mes)",662.28
+2016,"1",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  mensual (Euros/mes)",645.15
+2016,"1",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  mensual (Euros/mes)",629.69
+2016,"1",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  mensual (Euros/mes)",664.66
+2016,"1",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  mensual (Euros/mes)",892.7
+2016,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  mensual (Euros/mes)",777.86
+2016,"1",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  mensual (Euros/mes)",1572.56
+2016,"1",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  mensual (Euros/mes)",933.95
+2016,"1",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  mensual (Euros/mes)",1195.68
+2016,"1",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  mensual (Euros/mes)",1380.68
+2016,"1",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  mensual (Euros/mes)",1116.51
+2016,"1",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  mensual (Euros/mes)",1187.57
+2016,"1",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  mensual (Euros/mes)",827.82
+2016,"1",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  mensual (Euros/mes)",741.42
+2016,"1",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  mensual (Euros/mes)",590.53
+2016,"1",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  mensual (Euros/mes)",684.47
+2016,"1",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  mensual (Euros/mes)",764.02
+2016,"1",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  mensual (Euros/mes)",802.69
+2016,"1",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",696.69
+2016,"1",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",595.92
+2016,"1",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",646.76
+2016,"1",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  mensual (Euros/mes)",749.81
+2016,"1",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  mensual (Euros/mes)",518.24
+2016,"1",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  mensual (Euros/mes)",513.53
+2016,"1",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  mensual (Euros/mes)",616.36
+2016,"1",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  mensual (Euros/mes)",614.79
+2016,"1",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  mensual (Euros/mes)",692.35
+2016,"1",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"1",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  mensual (Euros/mes)",601.35
+2016,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  mensual (Euros/mes)",618.55
+2016,"1",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  mensual (Euros/mes)",536.66
+2016,"1",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  mensual (Euros/mes)",537.93
+2016,"1",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"1",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  mensual (Euros/mes)",589.2
+2016,"1",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  mensual (Euros/mes)",619.85
+2016,"1",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  mensual (Euros/mes)",455.65
+2016,"1",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  mensual (Euros/mes)",539.59
+2016,"1",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  mensual (Euros/mes)",518.02
+2016,"1",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  mensual (Euros/mes)",423.18
+2016,"1",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",392.44
+2016,"1",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  mensual (Euros/mes)",344.26
+2016,"1",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  mensual (Euros/mes)",418
+2016,"1",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  mensual (Euros/mes)",422.37
+2016,"1",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  mensual (Euros/mes)",142.34
+2016,"1",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  mensual (Euros/mes)",472.39
+2016,"1",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  mensual (Euros/mes)",624.75
+2016,"1",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  mensual (Euros/mes)",658.12
+2016,"1",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  mensual (Euros/mes)",613.71
+2016,"1",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  mensual (Euros/mes)",665.34
+2016,"1",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  mensual (Euros/mes)",659.58
+2016,"1",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  mensual (Euros/mes)",645.42
+2016,"1",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",799.63
+2016,"1",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1136
+2016,"1",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",719.12
+2016,"1",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1004.51
+2016,"1",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  mensual (Euros/mes)",506.7
+2016,"1",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",758.81
+2016,"1",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  mensual (Euros/mes)",688.49
+2016,"1",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  mensual (Euros/mes)",597.89
+2016,"2",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  mensual (Euros/mes)",662.28
+2016,"2",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  mensual (Euros/mes)",806.24
+2016,"2",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  mensual (Euros/mes)",659.35
+2016,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  mensual (Euros/mes)",773.62
+2016,"2",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  mensual (Euros/mes)",808.08
+2016,"2",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  mensual (Euros/mes)",739.86
+2016,"2",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",1120.4
+2016,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",960.8
+2016,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",842.53
+2016,"2",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  mensual (Euros/mes)",793.64
+2016,"2",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  mensual (Euros/mes)",651.21
+2016,"2",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"2",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  mensual (Euros/mes)",548.51
+2016,"2",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  mensual (Euros/mes)",751.69
+2016,"2",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  mensual (Euros/mes)",673.24
+2016,"2",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  mensual (Euros/mes)",672.13
+2016,"2",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  mensual (Euros/mes)",702.86
+2016,"2",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  mensual (Euros/mes)",681.39
+2016,"2",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  mensual (Euros/mes)",912.53
+2016,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  mensual (Euros/mes)",821.2
+2016,"2",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  mensual (Euros/mes)",1660.43
+2016,"2",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  mensual (Euros/mes)",1117.72
+2016,"2",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  mensual (Euros/mes)",1197.62
+2016,"2",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  mensual (Euros/mes)",1560.7
+2016,"2",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  mensual (Euros/mes)",1096.73
+2016,"2",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  mensual (Euros/mes)",1189.1
+2016,"2",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  mensual (Euros/mes)",891.63
+2016,"2",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  mensual (Euros/mes)",755.85
+2016,"2",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  mensual (Euros/mes)",592.76
+2016,"2",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  mensual (Euros/mes)",772.96
+2016,"2",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  mensual (Euros/mes)",773.66
+2016,"2",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  mensual (Euros/mes)",780.36
+2016,"2",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",642.91
+2016,"2",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",632
+2016,"2",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",634.75
+2016,"2",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  mensual (Euros/mes)",689.66
+2016,"2",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  mensual (Euros/mes)",550.3
+2016,"2",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  mensual (Euros/mes)",544.56
+2016,"2",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  mensual (Euros/mes)",592.36
+2016,"2",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  mensual (Euros/mes)",635.14
+2016,"2",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  mensual (Euros/mes)",786.32
+2016,"2",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"2",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  mensual (Euros/mes)",620.05
+2016,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  mensual (Euros/mes)",616.99
+2016,"2",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  mensual (Euros/mes)",574.38
+2016,"2",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  mensual (Euros/mes)",547.65
+2016,"2",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"2",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  mensual (Euros/mes)",613.96
+2016,"2",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  mensual (Euros/mes)",621.43
+2016,"2",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  mensual (Euros/mes)",475.41
+2016,"2",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  mensual (Euros/mes)",526.19
+2016,"2",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  mensual (Euros/mes)",550.31
+2016,"2",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  mensual (Euros/mes)",450.85
+2016,"2",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",447.05
+2016,"2",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  mensual (Euros/mes)",427.97
+2016,"2",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"2",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  mensual (Euros/mes)",483.22
+2016,"2",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"2",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  mensual (Euros/mes)",588.23
+2016,"2",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  mensual (Euros/mes)",663.31
+2016,"2",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  mensual (Euros/mes)",619.99
+2016,"2",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  mensual (Euros/mes)",635.81
+2016,"2",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  mensual (Euros/mes)",704.45
+2016,"2",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  mensual (Euros/mes)",690.84
+2016,"2",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  mensual (Euros/mes)",688.85
+2016,"2",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",759.08
+2016,"2",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1151.48
+2016,"2",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",785.11
+2016,"2",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1116.09
+2016,"2",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  mensual (Euros/mes)",521.08
+2016,"2",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",727.81
+2016,"2",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  mensual (Euros/mes)",679.25
+2016,"2",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  mensual (Euros/mes)",613.21
+2016,"3",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  mensual (Euros/mes)",666.17
+2016,"3",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  mensual (Euros/mes)",851.63
+2016,"3",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  mensual (Euros/mes)",686.63
+2016,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  mensual (Euros/mes)",839.58
+2016,"3",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  mensual (Euros/mes)",868.35
+2016,"3",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  mensual (Euros/mes)",799.38
+2016,"3",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",1143.98
+2016,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",986.21
+2016,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",890.54
+2016,"3",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  mensual (Euros/mes)",883.32
+2016,"3",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  mensual (Euros/mes)",696.74
+2016,"3",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"3",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  mensual (Euros/mes)",577.47
+2016,"3",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  mensual (Euros/mes)",764.38
+2016,"3",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  mensual (Euros/mes)",702.72
+2016,"3",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  mensual (Euros/mes)",674.88
+2016,"3",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  mensual (Euros/mes)",710.45
+2016,"3",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  mensual (Euros/mes)",740.5
+2016,"3",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  mensual (Euros/mes)",949.97
+2016,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  mensual (Euros/mes)",892.28
+2016,"3",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  mensual (Euros/mes)",1689.6
+2016,"3",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  mensual (Euros/mes)",1302.14
+2016,"3",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  mensual (Euros/mes)",1172.86
+2016,"3",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  mensual (Euros/mes)",1619.04
+2016,"3",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  mensual (Euros/mes)",1083.53
+2016,"3",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  mensual (Euros/mes)",1278.66
+2016,"3",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  mensual (Euros/mes)",876.77
+2016,"3",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  mensual (Euros/mes)",830.24
+2016,"3",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  mensual (Euros/mes)",635.15
+2016,"3",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  mensual (Euros/mes)",855.89
+2016,"3",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  mensual (Euros/mes)",827.81
+2016,"3",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  mensual (Euros/mes)",805.87
+2016,"3",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",718.5
+2016,"3",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",645.66
+2016,"3",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",679.39
+2016,"3",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  mensual (Euros/mes)",675.69
+2016,"3",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  mensual (Euros/mes)",557.55
+2016,"3",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  mensual (Euros/mes)",570.1
+2016,"3",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  mensual (Euros/mes)",603.75
+2016,"3",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  mensual (Euros/mes)",646.43
+2016,"3",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  mensual (Euros/mes)",796.92
+2016,"3",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"3",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  mensual (Euros/mes)",634.35
+2016,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  mensual (Euros/mes)",640.48
+2016,"3",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  mensual (Euros/mes)",617.22
+2016,"3",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  mensual (Euros/mes)",538.1
+2016,"3",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"3",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  mensual (Euros/mes)",632.29
+2016,"3",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  mensual (Euros/mes)",648.75
+2016,"3",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  mensual (Euros/mes)",512.34
+2016,"3",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  mensual (Euros/mes)",495.52
+2016,"3",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  mensual (Euros/mes)",584.53
+2016,"3",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  mensual (Euros/mes)",419.48
+2016,"3",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",0
+2016,"3",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  mensual (Euros/mes)",373.14
+2016,"3",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"3",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  mensual (Euros/mes)",459.84
+2016,"3",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  mensual (Euros/mes)",256.45
+2016,"3",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  mensual (Euros/mes)",558.42
+2016,"3",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  mensual (Euros/mes)",658.49
+2016,"3",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  mensual (Euros/mes)",670.19
+2016,"3",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  mensual (Euros/mes)",691.95
+2016,"3",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  mensual (Euros/mes)",712.32
+2016,"3",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  mensual (Euros/mes)",715.52
+2016,"3",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  mensual (Euros/mes)",708.8
+2016,"3",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",839.08
+2016,"3",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1142.76
+2016,"3",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",828.61
+2016,"3",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1268.48
+2016,"3",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  mensual (Euros/mes)",556.45
+2016,"3",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",856.58
+2016,"3",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  mensual (Euros/mes)",716.17
+2016,"3",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  mensual (Euros/mes)",617.01
+2016,"4",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  mensual (Euros/mes)",716.7
+2016,"4",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  mensual (Euros/mes)",913.96
+2016,"4",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  mensual (Euros/mes)",686.31
+2016,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  mensual (Euros/mes)",854.18
+2016,"4",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  mensual (Euros/mes)",816.51
+2016,"4",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  mensual (Euros/mes)",806.4
+2016,"4",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",1174.38
+2016,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",1012.22
+2016,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  mensual (Euros/mes)",926.21
+2016,"4",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  mensual (Euros/mes)",882.47
+2016,"4",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  mensual (Euros/mes)",706.11
+2016,"4",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"4",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  mensual (Euros/mes)",613.16
+2016,"4",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  mensual (Euros/mes)",786.35
+2016,"4",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  mensual (Euros/mes)",703.28
+2016,"4",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  mensual (Euros/mes)",730.45
+2016,"4",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  mensual (Euros/mes)",711.1
+2016,"4",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  mensual (Euros/mes)",740.28
+2016,"4",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  mensual (Euros/mes)",983.48
+2016,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  mensual (Euros/mes)",866.43
+2016,"4",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  mensual (Euros/mes)",1692.2
+2016,"4",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  mensual (Euros/mes)",1354.62
+2016,"4",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  mensual (Euros/mes)",1185.85
+2016,"4",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  mensual (Euros/mes)",1490.72
+2016,"4",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  mensual (Euros/mes)",1197.72
+2016,"4",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  mensual (Euros/mes)",1298.95
+2016,"4",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  mensual (Euros/mes)",904.17
+2016,"4",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  mensual (Euros/mes)",818.69
+2016,"4",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  mensual (Euros/mes)",653.69
+2016,"4",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  mensual (Euros/mes)",784.91
+2016,"4",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  mensual (Euros/mes)",829.23
+2016,"4",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  mensual (Euros/mes)",823.72
+2016,"4",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",747.31
+2016,"4",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",658.74
+2016,"4",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  mensual (Euros/mes)",705.71
+2016,"4",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  mensual (Euros/mes)",761.28
+2016,"4",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  mensual (Euros/mes)",597.13
+2016,"4",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  mensual (Euros/mes)",672.65
+2016,"4",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  mensual (Euros/mes)",623.6
+2016,"4",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  mensual (Euros/mes)",668.46
+2016,"4",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  mensual (Euros/mes)",778.67
+2016,"4",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"4",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  mensual (Euros/mes)",668.66
+2016,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  mensual (Euros/mes)",684.2
+2016,"4",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  mensual (Euros/mes)",672.64
+2016,"4",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  mensual (Euros/mes)",582.12
+2016,"4",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  mensual (Euros/mes)",301.82
+2016,"4",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  mensual (Euros/mes)",666.83
+2016,"4",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  mensual (Euros/mes)",617.52
+2016,"4",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  mensual (Euros/mes)",523.02
+2016,"4",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  mensual (Euros/mes)",565.89
+2016,"4",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  mensual (Euros/mes)",589.24
+2016,"4",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  mensual (Euros/mes)",438.65
+2016,"4",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  mensual (Euros/mes)",416.39
+2016,"4",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  mensual (Euros/mes)",446.13
+2016,"4",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"4",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  mensual (Euros/mes)",552.81
+2016,"4",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  mensual (Euros/mes)",NA
+2016,"4",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  mensual (Euros/mes)",555.12
+2016,"4",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  mensual (Euros/mes)",690.64
+2016,"4",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  mensual (Euros/mes)",709.11
+2016,"4",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  mensual (Euros/mes)",662.25
+2016,"4",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  mensual (Euros/mes)",768.66
+2016,"4",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  mensual (Euros/mes)",720.39
+2016,"4",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  mensual (Euros/mes)",728.87
+2016,"4",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",886.66
+2016,"4",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1285.61
+2016,"4",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",840.76
+2016,"4",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",1181.15
+2016,"4",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  mensual (Euros/mes)",571.6
+2016,"4",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  mensual (Euros/mes)",987.18
+2016,"4",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  mensual (Euros/mes)",720.74
+2016,"4",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  mensual (Euros/mes)",591.86
+2016,"1",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.65
+2016,"1",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.47
+2016,"1",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",17.3
+2016,"1",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.94
+2016,"1",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.19
+2016,"1",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.07
+2016,"1",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.33
+2016,"1",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.91
+2016,"1",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.51
+2016,"1",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.64
+2016,"1",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.62
+2016,"1",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",6.96
+2016,"1",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.24
+2016,"1",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.23
+2016,"1",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.76
+2016,"1",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.56
+2016,"1",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.07
+2016,"1",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.05
+2016,"1",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.63
+2016,"1",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.31
+2016,"1",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.06
+2016,"1",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.24
+2016,"1",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.59
+2016,"1",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.22
+2016,"1",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.04
+2016,"1",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.33
+2016,"1",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.1
+2016,"1",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.18
+2016,"1",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.68
+2016,"1",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.87
+2016,"1",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.71
+2016,"1",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.85
+2016,"1",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.26
+2016,"1",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.51
+2016,"1",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.84
+2016,"1",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.2
+2016,"1",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.24
+2016,"1",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.02
+2016,"1",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.42
+2016,"1",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.21
+2016,"1",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.03
+2016,"1",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"1",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.84
+2016,"1",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.28
+2016,"1",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.16
+2016,"1",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.91
+2016,"1",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"1",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.55
+2016,"1",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.03
+2016,"1",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.39
+2016,"1",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10
+2016,"1",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.12
+2016,"1",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.67
+2016,"1",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",6.55
+2016,"1",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",6.23
+2016,"1",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.14
+2016,"1",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.42
+2016,"1",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",3.18
+2016,"1",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.18
+2016,"1",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.3
+2016,"1",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.78
+2016,"1",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.65
+2016,"1",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.28
+2016,"1",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.12
+2016,"1",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.19
+2016,"1",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.14
+2016,"1",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.78
+2016,"1",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.93
+2016,"1",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.8
+2016,"1",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.46
+2016,"1",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.56
+2016,"1",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.37
+2016,"1",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.19
+2016,"2",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.78
+2016,"2",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.4
+2016,"2",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",17.73
+2016,"2",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.09
+2016,"2",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.82
+2016,"2",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.8
+2016,"2",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.63
+2016,"2",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.74
+2016,"2",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.53
+2016,"2",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.61
+2016,"2",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.88
+2016,"2",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"2",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.73
+2016,"2",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.3
+2016,"2",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.13
+2016,"2",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.71
+2016,"2",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.57
+2016,"2",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.94
+2016,"2",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.52
+2016,"2",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.85
+2016,"2",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.23
+2016,"2",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",17.52
+2016,"2",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",17.29
+2016,"2",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",16.4
+2016,"2",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.33
+2016,"2",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.8
+2016,"2",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.58
+2016,"2",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.14
+2016,"2",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.38
+2016,"2",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.9
+2016,"2",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.22
+2016,"2",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.29
+2016,"2",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.89
+2016,"2",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.1
+2016,"2",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.53
+2016,"2",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.52
+2016,"2",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.61
+2016,"2",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.93
+2016,"2",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.65
+2016,"2",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.72
+2016,"2",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.52
+2016,"2",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"2",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.15
+2016,"2",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.17
+2016,"2",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.86
+2016,"2",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.51
+2016,"2",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"2",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.6
+2016,"2",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.1
+2016,"2",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.21
+2016,"2",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.56
+2016,"2",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.04
+2016,"2",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.38
+2016,"2",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",6.82
+2016,"2",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.24
+2016,"2",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"2",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.5
+2016,"2",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"2",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.74
+2016,"2",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.37
+2016,"2",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.04
+2016,"2",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.27
+2016,"2",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.38
+2016,"2",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.34
+2016,"2",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.35
+2016,"2",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.52
+2016,"2",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",17.17
+2016,"2",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.7
+2016,"2",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.28
+2016,"2",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.02
+2016,"2",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.21
+2016,"2",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.04
+2016,"2",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.27
+2016,"3",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.48
+2016,"3",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.39
+2016,"3",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",19.22
+2016,"3",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.41
+2016,"3",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.91
+2016,"3",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.18
+2016,"3",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.33
+2016,"3",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.15
+2016,"3",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.49
+2016,"3",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.67
+2016,"3",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.67
+2016,"3",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"3",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.23
+2016,"3",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.52
+2016,"3",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12
+2016,"3",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.9
+2016,"3",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.99
+2016,"3",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.1
+2016,"3",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.04
+2016,"3",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.91
+2016,"3",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.44
+2016,"3",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",17.1
+2016,"3",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",16.06
+2016,"3",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.51
+2016,"3",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.32
+2016,"3",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.81
+2016,"3",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.67
+2016,"3",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.58
+2016,"3",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.82
+2016,"3",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.43
+2016,"3",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.63
+2016,"3",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.85
+2016,"3",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.79
+2016,"3",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.86
+2016,"3",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.46
+2016,"3",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.26
+2016,"3",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.77
+2016,"3",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.95
+2016,"3",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.71
+2016,"3",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.03
+2016,"3",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.67
+2016,"3",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"3",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.68
+2016,"3",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.27
+2016,"3",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.58
+2016,"3",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.75
+2016,"3",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"3",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.84
+2016,"3",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.45
+2016,"3",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.95
+2016,"3",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.9
+2016,"3",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.74
+2016,"3",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.8
+2016,"3",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"3",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",6.44
+2016,"3",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"3",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.44
+2016,"3",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",3.85
+2016,"3",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.12
+2016,"3",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.81
+2016,"3",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.45
+2016,"3",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.28
+2016,"3",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.5
+2016,"3",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.86
+2016,"3",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.69
+2016,"3",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.48
+2016,"3",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.04
+2016,"3",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.13
+2016,"3",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.27
+2016,"3",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.71
+2016,"3",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.69
+2016,"3",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.87
+2016,"3",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.96
+2016,"4",1,"Ciutat Vella",1,"el Raval","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.17
+2016,"4",1,"Ciutat Vella",2,"el Barri GÃ²tic","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.78
+2016,"4",1,"Ciutat Vella",3,"la Barceloneta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",18.6
+2016,"4",1,"Ciutat Vella",4,"Sant Pere, Santa Caterina i la Ribera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.8
+2016,"4",2,"Eixample",5,"el Fort Pienc","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.04
+2016,"4",2,"Eixample",6,"la Sagrada FamÃ­lia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.71
+2016,"4",2,"Eixample",7,"la Dreta de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.04
+2016,"4",2,"Eixample",8,"l'Antiga Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.86
+2016,"4",2,"Eixample",9,"la Nova Esquerra de l'Eixample","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.87
+2016,"4",2,"Eixample",10,"Sant Antoni","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.34
+2016,"4",3,"Sants-MontjuÃ¯c",11,"el Poble Sec","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.92
+2016,"4",3,"Sants-MontjuÃ¯c",12,"la Marina del Prat Vermell","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"4",3,"Sants-MontjuÃ¯c",13,"la Marina de Port","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.58
+2016,"4",3,"Sants-MontjuÃ¯c",14,"la Font de la Guatlla","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13
+2016,"4",3,"Sants-MontjuÃ¯c",15,"Hostafrancs","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.61
+2016,"4",3,"Sants-MontjuÃ¯c",16,"la Bordeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.16
+2016,"4",3,"Sants-MontjuÃ¯c",17,"Sants - Badal","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.17
+2016,"4",3,"Sants-MontjuÃ¯c",18,"Sants","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.32
+2016,"4",4,"Les Corts",19,"les Corts","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.76
+2016,"4",4,"Les Corts",20,"la Maternitat i Sant Ramon","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.4
+2016,"4",4,"Les Corts",21,"Pedralbes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.96
+2016,"4",5,"SarriÃ -Sant Gervasi",22,"Vallvidrera, el Tibidabo i les Planes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.39
+2016,"4",5,"SarriÃ -Sant Gervasi",23,"SarriÃ ","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.85
+2016,"4",5,"SarriÃ -Sant Gervasi",24,"les Tres Torres","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",15.6
+2016,"4",5,"SarriÃ -Sant Gervasi",25,"Sant Gervasi - la Bonanova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.18
+2016,"4",5,"SarriÃ -Sant Gervasi",26,"Sant Gervasi - Galvany","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.12
+2016,"4",5,"SarriÃ -Sant Gervasi",27,"el Putxet i el FarrÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.6
+2016,"4",6,"GrÃ cia",28,"Vallcarca i els Penitents","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.49
+2016,"4",6,"GrÃ cia",29,"el Coll","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.05
+2016,"4",6,"GrÃ cia",30,"la Salut","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.24
+2016,"4",6,"GrÃ cia",31,"la Vila de GrÃ cia","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",14.32
+2016,"4",6,"GrÃ cia",32,"el Camp d'en Grassot i GrÃ cia Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.81
+2016,"4",7,"Horta-GuinardÃ³",33,"el Baix GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.78
+2016,"4",7,"Horta-GuinardÃ³",34,"Can BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.33
+2016,"4",7,"Horta-GuinardÃ³",35,"el GuinardÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.73
+2016,"4",7,"Horta-GuinardÃ³",36,"la Font d'en Fargues","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.26
+2016,"4",7,"Horta-GuinardÃ³",37,"el Carmel","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.7
+2016,"4",7,"Horta-GuinardÃ³",38,"la Teixonera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.56
+2016,"4",7,"Horta-GuinardÃ³",39,"Sant GenÃ­s dels Agudells","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.14
+2016,"4",7,"Horta-GuinardÃ³",40,"Montbau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.7
+2016,"4",7,"Horta-GuinardÃ³",41,"la Vall d'Hebron","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.43
+2016,"4",7,"Horta-GuinardÃ³",42,"la Clota","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"4",7,"Horta-GuinardÃ³",43,"Horta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.81
+2016,"4",8,"Nou Barris",44,"Vilapicina i la Torre Llobeta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.27
+2016,"4",8,"Nou Barris",45,"Porta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.51
+2016,"4",8,"Nou Barris",46,"el TurÃ³ de la Peira","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.63
+2016,"4",8,"Nou Barris",47,"Can Peguera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.51
+2016,"4",8,"Nou Barris",48,"la Guineueta","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.2
+2016,"4",8,"Nou Barris",49,"Canyelles","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.68
+2016,"4",8,"Nou Barris",50,"les Roquetes","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.04
+2016,"4",8,"Nou Barris",51,"Verdun","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.92
+2016,"4",8,"Nou Barris",52,"la Prosperitat","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.1
+2016,"4",8,"Nou Barris",53,"la Trinitat Nova","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.71
+2016,"4",8,"Nou Barris",54,"Torre BarÃ³","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.09
+2016,"4",8,"Nou Barris",55,"Ciutat Meridiana","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",7.74
+2016,"4",8,"Nou Barris",56,"Vallbona","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"4",9,"Sant Andreu",57,"la Trinitat Vella","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.61
+2016,"4",9,"Sant Andreu",58,"BarÃ³ de Viver","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",NA
+2016,"4",9,"Sant Andreu",59,"el Bon Pastor","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.05
+2016,"4",9,"Sant Andreu",60,"Sant Andreu","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.16
+2016,"4",9,"Sant Andreu",61,"la Sagrera","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.72
+2016,"4",9,"Sant Andreu",62,"el CongrÃ©s i els Indians","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.49
+2016,"4",9,"Sant Andreu",63,"Navas","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.94
+2016,"4",10,"Sant MartÃ­",64,"el Camp de l'Arpa del Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.37
+2016,"4",10,"Sant MartÃ­",65,"el Clot","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",11.4
+2016,"4",10,"Sant MartÃ­",66,"el Parc i la Llacuna del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.72
+2016,"4",10,"Sant MartÃ­",67,"la Vila OlÃ­mpica del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",16.7
+2016,"4",10,"Sant MartÃ­",68,"el Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",13.37
+2016,"4",10,"Sant MartÃ­",69,"Diagonal Mar i el Front MarÃ­tim del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",16.69
+2016,"4",10,"Sant MartÃ­",70,"el BesÃ²s i el Maresme","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",8.92
+2016,"4",10,"Sant MartÃ­",71,"ProvenÃ§als del Poblenou","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",12.66
+2016,"4",10,"Sant MartÃ­",72,"Sant MartÃ­ de ProvenÃ§als","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",10.71
+2016,"4",10,"Sant MartÃ­",73,"la Verneda i la Pau","Lloguer mitjÃ  per superfÃ­cie (Euros/m2 mes)",9.07

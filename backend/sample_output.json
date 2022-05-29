@@ -1,0 +1,443 @@
+{
+    "statusCode": 200,
+    "body": [
+        {
+            "rent": 589.55,
+            "mode": "walking",
+            "durantion": "1 min",
+            "score": 5.0
+        },
+        {
+            "rent": 712.79,
+            "mode": "walking",
+            "durantion": "12 mins",
+            "score": 4.802777777777777
+        },
+        {
+            "rent": 540.71,
+            "mode": "public transport",
+            "durantion": "24 mins",
+            "score": 3.8569444444444443
+        },
+        {
+            "rent": 673.44,
+            "mode": "walking",
+            "durantion": "21 mins",
+            "score": 4.051388888888889
+        },
+        {
+            "rent": 736.09,
+            "mode": "public transport",
+            "durantion": "17 mins",
+            "score": 4.426388888888889
+        },
+        {
+            "rent": 673.37,
+            "mode": "public transport",
+            "durantion": "17 mins",
+            "score": 4.408333333333333
+        },
+        {
+            "rent": 921.4,
+            "mode": "public transport",
+            "durantion": "15 mins",
+            "score": 4.572222222222222
+        },
+        {
+            "rent": 827.87,
+            "mode": "walking",
+            "durantion": "22 mins",
+            "score": 3.9763888888888888
+        },
+        {
+            "rent": 716.13,
+            "mode": "public transport",
+            "durantion": "16 mins",
+            "score": 4.526388888888889
+        },
+        {
+            "rent": 693.43,
+            "mode": "walking",
+            "durantion": "11 mins",
+            "score": 4.920833333333333
+        },
+        {
+            "rent": 568.0,
+            "mode": "public transport",
+            "durantion": "26 mins",
+            "score": 3.6305555555555555
+        },
+        {
+            "rent": "not found",
+            "mode": "public transport",
+            "durantion": "33 mins",
+            "score": 3.108333333333333
+        },
+        {
+            "rent": 553.55,
+            "mode": "public transport",
+            "durantion": "34 mins",
+            "score": 2.990277777777778
+        },
+        {
+            "rent": 631.5,
+            "mode": "public transport",
+            "durantion": "22 mins",
+            "score": 4.0
+        },
+        {
+            "rent": 580.71,
+            "mode": "public transport",
+            "durantion": "15 mins",
+            "score": 4.558333333333334
+        },
+        {
+            "rent": 604.74,
+            "mode": "public transport",
+            "durantion": "23 mins",
+            "score": 3.9166666666666665
+        },
+        {
+            "rent": 584.27,
+            "mode": "public transport",
+            "durantion": "26 mins",
+            "score": 3.6291666666666664
+        },
+        {
+            "rent": 605.28,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 777.23,
+            "mode": "public transport",
+            "durantion": "25 mins",
+            "score": 3.729166666666667
+        },
+        {
+            "rent": 700.16,
+            "mode": "public transport",
+            "durantion": "29 mins",
+            "score": 3.4097222222222223
+        },
+        {
+            "rent": 1230.0,
+            "mode": "public transport",
+            "durantion": "38 mins",
+            "score": 2.676388888888889
+        },
+        {
+            "rent": 837.33,
+            "mode": "public transport",
+            "durantion": "34 mins",
+            "score": 3.0180555555555557
+        },
+        {
+            "rent": 1042.16,
+            "mode": "walking",
+            "durantion": "7 days 22 hours",
+            "score": 0.0
+        },
+        {
+            "rent": 1215.85,
+            "mode": "public transport",
+            "durantion": "27 mins",
+            "score": 3.5902777777777777
+        },
+        {
+            "rent": 927.63,
+            "mode": "public transport",
+            "durantion": "34 mins",
+            "score": 3.0361111111111105
+        },
+        {
+            "rent": 1053.7,
+            "mode": "public transport",
+            "durantion": "29 mins",
+            "score": 3.4111111111111114
+        },
+        {
+            "rent": 750.84,
+            "mode": "public transport",
+            "durantion": "26 mins",
+            "score": 3.666666666666667
+        },
+        {
+            "rent": 679.66,
+            "mode": "public transport",
+            "durantion": "26 mins",
+            "score": 3.7
+        },
+        {
+            "rent": 583.93,
+            "mode": "public transport",
+            "durantion": "30 mins",
+            "score": 3.323611111111111
+        },
+        {
+            "rent": 634.48,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 679.8,
+            "mode": "public transport",
+            "durantion": "18 mins",
+            "score": 4.308333333333334
+        },
+        {
+            "rent": 671.0,
+            "mode": "public transport",
+            "durantion": "25 mins",
+            "score": 3.7111111111111112
+        },
+        {
+            "rent": 622.63,
+            "mode": "public transport",
+            "durantion": "23 mins",
+            "score": 3.908333333333333
+        },
+        {
+            "rent": 568.94,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 586.5,
+            "mode": "public transport",
+            "durantion": "44 mins",
+            "score": 2.158333333333333
+        },
+        {
+            "rent": 585.45,
+            "mode": "public transport",
+            "durantion": "42 mins",
+            "score": 2.3430555555555554
+        },
+        {
+            "rent": 478.7,
+            "mode": "public transport",
+            "durantion": "35 mins",
+            "score": 2.906944444444445
+        },
+        {
+            "rent": 492.79,
+            "mode": "public transport",
+            "durantion": "30 mins",
+            "score": 3.334722222222222
+        },
+        {
+            "rent": 557.0,
+            "mode": "public transport",
+            "durantion": "32 mins",
+            "score": 3.155555555555556
+        },
+        {
+            "rent": 537.94,
+            "mode": "public transport",
+            "durantion": "26 mins",
+            "score": 3.6597222222222223
+        },
+        {
+            "rent": 737.73,
+            "mode": "public transport",
+            "durantion": "24 mins",
+            "score": 3.7958333333333334
+        },
+        {
+            "rent": "not found",
+            "mode": "public transport",
+            "durantion": "31 mins",
+            "score": 3.209722222222222
+        },
+        {
+            "rent": 556.3,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 555.89,
+            "mode": "public transport",
+            "durantion": "32 mins",
+            "score": 3.1722222222222216
+        },
+        {
+            "rent": 523.29,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 475.06,
+            "mode": "public transport",
+            "durantion": "38 mins",
+            "score": 2.681944444444444
+        },
+        {
+            "rent": 241.99,
+            "mode": "public transport",
+            "durantion": "35 mins",
+            "score": 2.916666666666666
+        },
+        {
+            "rent": 613.58,
+            "mode": "public transport",
+            "durantion": "31 mins",
+            "score": 3.2472222222222227
+        },
+        {
+            "rent": 563.33,
+            "mode": "walking",
+            "durantion": "11 hours 1 min",
+            "score": 0.0
+        },
+        {
+            "rent": 461.28,
+            "mode": "walking",
+            "durantion": "9 hours 42 mins",
+            "score": 0.0
+        },
+        {
+            "rent": 503.47,
+            "mode": "walking",
+            "durantion": "9 days 3 hours",
+            "score": 0.0
+        },
+        {
+            "rent": 521.81,
+            "mode": "public transport",
+            "durantion": "35 mins",
+            "score": 2.9375
+        },
+        {
+            "rent": 442.94,
+            "mode": "public transport",
+            "durantion": "32 mins",
+            "score": 3.1861111111111113
+        },
+        {
+            "rent": "not found",
+            "mode": "walking",
+            "durantion": "20 hours 34 mins",
+            "score": 0.0
+        },
+        {
+            "rent": 359.27,
+            "mode": "public transport",
+            "durantion": "43 mins",
+            "score": 2.272222222222222
+        },
+        {
+            "rent": "not found",
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 461.1,
+            "mode": "public transport",
+            "durantion": "37 mins",
+            "score": 2.7680555555555557
+        },
+        {
+            "rent": "not found",
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 488.14,
+            "mode": "public transport",
+            "durantion": "40 mins",
+            "score": 2.522222222222222
+        },
+        {
+            "rent": 581.16,
+            "mode": "public transport",
+            "durantion": "29 mins",
+            "score": 3.4444444444444446
+        },
+        {
+            "rent": 626.26,
+            "mode": "public transport",
+            "durantion": "25 mins",
+            "score": 3.75
+        },
+        {
+            "rent": 563.42,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 613.47,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 580.09,
+            "mode": "public transport",
+            "durantion": "26 mins",
+            "score": 3.680555555555556
+        },
+        {
+            "rent": 604.85,
+            "mode": "public transport",
+            "durantion": "25 mins",
+            "score": 3.738888888888889
+        },
+        {
+            "rent": 704.67,
+            "mode": "public transport",
+            "durantion": "25 mins",
+            "score": 3.7888888888888888
+        },
+        {
+            "rent": 926.43,
+            "mode": "public transport",
+            "durantion": "28 mins",
+            "score": 3.540277777777778
+        },
+        {
+            "rent": 663.93,
+            "mode": "public transport",
+            "durantion": "31 mins",
+            "score": 3.229166666666666
+        },
+        {
+            "rent": 866.7,
+            "mode": "public transport",
+            "durantion": "35 mins",
+            "score": 2.908333333333333
+        },
+        {
+            "rent": 516.9,
+            "mode": "public transport",
+            "durantion": "32 mins",
+            "score": 3.1319444444444446
+        },
+        {
+            "rent": 635.7,
+            "mode": "public transport",
+            "durantion": "42 mins",
+            "score": 2.3027777777777776
+        },
+        {
+            "rent": 643.66,
+            "mode": "walking",
+            "durantion": "Could not find",
+            "score": 0.0
+        },
+        {
+            "rent": 568.68,
+            "mode": "public transport",
+            "durantion": "33 mins",
+            "score": 3.113888888888889
+        }
+    ]
+}
