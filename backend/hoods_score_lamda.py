@@ -15,9 +15,6 @@ response = client.get_secret_value(
 MAPS_API_KEY = response['SecretString']
 TABLE_NAME = "hoods_rent_prices"
 
-# Creating the DynamoDB Client
-# dynamodb_client = boto3.client('dynamodb', region_name="eu-west-1")
-
 # Creating the DynamoDB Table Resource
 dynamodb = boto3.resource('dynamodb', region_name="eu-west-1")
 table = dynamodb.Table(TABLE_NAME)
@@ -90,8 +87,6 @@ def get_distances(origin, rent_data, min_commute_time = 10, max_commute_time=60)
 
     
     destinations_list = [str(rent_data[i]['center']["lat"])+","+str(rent_data[i]['center']["lng"]) for i in range(n_barris)]
-
-    #destinations_list = [rent_data[i]['Nom_Barri'] for i in range(n_barris)]
 
     result_transit = get_results_by_mode(MAPS_API_KEY,origins,destinations_list, max_commute_time, min_commute_time , 'transit')
 
