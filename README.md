@@ -1,8 +1,8 @@
 # HOODS
 ## HOusing Open Data Survey
 By:
-- André Gaillard andre.gaillard@hoods.com
-- Demira Dimitrova demira.dimitrova@hoods.com
+- André Gaillard andre.nicolas.gaillard@estudiantat.upc.edu
+- Demira Dimitrova demira.zhivkova.dimitrova@estudiantat.upc.edu
 - Giacomo Lombardo giacomo.lombardo@estudiantat.upc.edu
 - Iohan Sardinha iohan.xavier.sardinha.dutra@estudiantat.upc.edu
 - Leonardo Menti leonardo.menti@estudiantat.upc.edu
