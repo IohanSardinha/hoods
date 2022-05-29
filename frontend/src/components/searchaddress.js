@@ -158,7 +158,7 @@ function PolyBarrio(key, paths, barrioScore){
 
     const clickHandler = () => {
         axios
-            .get('https://dcfsiax4ti.execute-api.eu-west-1.amazonaws.com/test/Hoods-backend', {params: {id: key}})
+            .get('https://dcfsiax4ti.execute-api.eu-west-1.amazonaws.com/test/Hoods-backend', {params: {id: key-1}})
             .then((res) => {
                 if (res.data) {
                     setBarrioData(res.data);
