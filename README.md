@@ -1,4 +1,5 @@
-# HOODS
+![hoods_logo](hoods_logo.png)
+
 ## HOusing Open Data Survey
 By:
 - André Gaillard andre.gaillard@hoods.com
