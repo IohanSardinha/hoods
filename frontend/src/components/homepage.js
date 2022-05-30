@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import SearchAddress from "./searchaddress";
+import MainComponent from "./maincomponent";
 
 export default class Homepage extends Component{
     render(){
@@ -15,7 +15,7 @@ export default class Homepage extends Component{
                     </div>
                 </div>
                 <hr />
-                <SearchAddress />
+                <MainComponent />
             </div>
         )
     }
